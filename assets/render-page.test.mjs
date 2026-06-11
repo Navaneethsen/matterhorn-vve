@@ -173,7 +173,7 @@ test('renderNoticePage applies tone colors per section: do for obligations, dont
 test('sectionTone maps known section ids and falls back to info', () => {
   assert.equal(sectionTone('obligations'), 'do');
   assert.equal(sectionTone('prohibited'), 'dont');
-  assert.equal(sectionTone('living'), 'home');
+  assert.equal(sectionTone('lift'), 'home');
   assert.equal(sectionTone('responsibility'), 'info');
   assert.equal(sectionTone('contact'), 'contact');
   assert.equal(sectionTone('something-new'), 'info');

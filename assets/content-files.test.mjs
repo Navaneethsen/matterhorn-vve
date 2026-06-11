@@ -6,14 +6,18 @@ import { parseNoticeMarkdown } from './content-model.mjs';
 const editorNote =
   '<!-- Editor note: keep the bracketed ids in ##/### headings unchanged; edit only the visible heading text and body content. An emoji at the start of a ### title becomes the icon next to the rule. -->';
 
-const expectedSectionIds = ['obligations', 'prohibited', 'living', 'responsibility', 'contact'];
+const expectedSectionIds = ['obligations', 'prohibited', 'lift', 'responsibility', 'contact'];
 const expectedCardIds = {
   obligations: [
     'monthly-fee',
     'private-maintenance',
+    'clean-common',
+    'bulky-waste',
+    'doors-close',
     'escape-routes',
     'report-damage',
     'grant-access',
+    'door-system',
     'tenant-declaration'
   ],
   prohibited: [
@@ -21,20 +25,13 @@ const expectedCardIds = {
     'common-area-conduct',
     'vehicles-common-areas',
     'decorations-common-areas',
+    'balcony',
+    'pets',
     'alterations',
     'commercial-activities',
     'garage-use'
   ],
-  living: [
-    'clean-common',
-    'bulky-waste',
-    'doors-close',
-    'noise-neighbours',
-    'pets',
-    'balcony',
-    'lift',
-    'door-system'
-  ],
+  lift: ['lift-clean', 'lift-conduct', 'lift-renovation'],
   responsibility: ['shared-vs-private', 'cleaning-schedule', 'liability'],
   contact: ['contact-details']
 };

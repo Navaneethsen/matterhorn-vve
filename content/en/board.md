@@ -22,6 +22,7 @@ Elected by the 2026 general meeting.
 - **Lift malfunctions (Kone):** 0900-22 555 66
 - **Power/gas outage in the neighbourhood (Liander):** 0800-9009 or [liander.nl/storing](https://www.liander.nl/storing)
 - Small defects (e.g. broken light bulb): put a note in the **Idea Box** in the hall
+- **General questions?** 💬 Use the **Matterhorn WhatsApp group** to discuss with residents and the board. Not a member yet? Ask a board member to add you.
 
 ## [address] Address
 
@@ -40,3 +41,11 @@ Call VvE Metea: **030-600 39 30** (available 24 hours) — for example in case o
 ### [note] Please note
 
 If the cause turns out to be private (e.g. a grease blockage or leaking sealant), the costs are passed on to you. Consult the VvE Metea "Own maintenance" guide first.
+
+## [keys] Lost your keys?
+
+Have you lost a key (apartment, storage box or central entrance), or do you need an extra one?
+
+- Having keys copied or locks replaced is something you arrange and **pay for yourself** as owner/resident.
+- The VvE is **not responsible** for the costs of lost keys or replacement locks.
+- 💡 Lost a key to the **central entrance**? Please also inform the board, for the security of the building.

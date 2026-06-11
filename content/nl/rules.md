@@ -6,7 +6,7 @@
 > **Beheerder:** VvE Metea — Matthy van Rooijen
 > **Contact:** [vvemetea.nl](https://www.vvemetea.nl)
 
-> Deze regels zijn gebaseerd op de **Akte van Splitsing (1973)** en het **Modelreglement 1972**, de juridisch bindende grondslag van onze VvE. Alle bewoners — eigenaars én huurders — zijn verplicht deze na te leven.
+> Deze regels zijn gebaseerd op de **Akte van Splitsing (1973)** en het **Modelreglement 1972**, de juridisch bindende grondslag van onze VvE, aangevuld met de praktische woonafspraken van het prikbord in de hal. Alle bewoners — eigenaars én huurders — zijn verplicht deze na te leven.
 
 ## [obligations] Verplichtingen
 
@@ -27,6 +27,21 @@ U bent als eigenaar/bewoner zelf verantwoordelijk voor het onderhoud van uw priv
 - Uw brievenbus
 
 > ⚠️ **Let op (Matterhorn-specifiek):** Radiatoren en radiatorkranen zijn bij ons gebouw **gemeenschappelijk eigendom** — reparaties hieraan zijn de verantwoordelijkheid van de VvE, niet de individuele bewoner. Meld problemen bij VvE Metea.
+
+### [clean-common] 🧹 Gemeenschappelijke ruimten schoon houden
+
+- Houd gangen, hallen, liften en galerijen schoon. **Laat geen afval staan.**
+- Post, folders en kranten neemt u mee naar huis of gooit u in de papierbak.
+- **Geen winkelwagentjes** in het gebouw.
+- Zorg ervoor dat uw eigen huisvuil **geen zwerfvuil** wordt.
+
+### [bulky-waste] 🗑️ Grofvuil buiten zetten
+
+- Zet grofvuil **uitsluitend buiten op de ophaaldag vanaf 07:45 uur** (zie de afvalkalender van de gemeente).
+
+### [doors-close] 🚪 Deuren en hekken laten sluiten
+
+- Laat hekken en deuren van de algemene ruimtes **goed in het slot vallen**.
 
 ### [escape-routes] 🧯 Vluchtwegen vrijhouden
 
@@ -52,18 +67,38 @@ Is voor werkzaamheden aan de gemeenschappelijke delen toegang tot uw appartement
 
 > *(Modelreglement 1972, Art. 10 lid 3 en Art. 11 lid 2)*
 
+### [door-system] 🔌 Automatisch deursysteem: deur tijdelijk openzetten
+
+Bij verhuizing of ander transport *(instructie bestuur, 22 februari 2018)*. Voor uw eigen veiligheid en die van anderen: volg deze stappen precies.
+
+**Deur openzetten:**
+
+1. Trek de **witte stekker** uit het stopcontact en leg deze **boven op het kastje** — anders raakt hij bekneld tussen deur en muur en kan de sensor beschadigen.
+2. Bedien **géén** schakelaars op het kastje.
+3. Houd de deur open door er voorzichtig iets voor te zetten, **zonder de deur te beschadigen**.
+
+**Systeem weer in gebruik stellen:**
+
+1. Sluit de deur.
+2. Steek de witte stekker terug in het stopcontact.
+3. **Wacht ± 15 seconden** tot u een klikje hoort uit het kastje — het systeem werkt dan weer.
+
 ### [tenant-declaration] ✍️ Huurders: verklaring ondertekenen
 
 Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de huurder een **schriftelijke verklaring** ondertekent dat hij/zij het splitsingsreglement en het huishoudelijk reglement zal naleven. Een exemplaar wordt bewaard door de administrateur.
 
 ## [prohibited] Verboden
 
-### [noise] 🔇 Geluidshinder — Stiltetijden
+### [noise] 🔇 Geluidshinder — Stiltetijden en rekening houden met buren
 
 > **Muziek en storende geluiden zijn verboden tussen 22:00 en 07:00 uur.**
-> *(Modelreglement 1972, Art. 13) (gewijzigde)*
+> *(Modelreglement 1972, Art. 13 — gewijzigd)*
 
 - Dit geldt voor muziek, feesten, renovatiewerk, en alle overige storende geluiden.
+- Zet muziek **niet te hard**, zeker niet na **22:00 uur**.
+- Geeft u een feestje? Houd dan rekening met de omwonenden.
+- Luidruchtige klussen doet u **zoveel mogelijk overdag** en u informeert uw buren vooraf.
+- 👣 **Denk ook aan uw onderburen:** voetstappen en stampen dragen sterk door via de vloer. Loop rustig, draag binnenshuis zachte schoenen of sloffen, en plaats viltjes onder stoel- en tafelpoten — een klein gebaar dat veel woonplezier scheelt.
 - Buiten de stiltetijden geldt: **geen onredelijke hinder** aan medebewoners (24/7).
 - Bij aanhoudende overlast: meld schriftelijk bij VvE Metea.
 
@@ -86,6 +121,16 @@ Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de hu
 
 > **De wanden en plafonds van de hal en het trappenhuis mogen niet worden gebruikt voor het ophangen van schilderijen of andere voorwerpen, en het aanbrengen van decoraties.**
 > *(Modelreglement 1972, Art. 5 lid 2)*
+
+### [balcony] 🪴 Niets aan de buitenzijde van het balkon
+
+> **Hang niets (wasgoed, bloembakken) aan de buitenzijde van het balkon.**
+> Vallende spullen kunnen dodelijke projectielen zijn!
+
+### [pets] 🐶 Huisdieren los laten lopen
+
+- Houd huisdieren **aangelijnd** in en rond de flat.
+- Laat uw hond alleen uit op de hondenuitlaatplekken; ruim eventuele "ongelukjes" meteen op.
 
 ### [alterations] 🏗️ Verbouwen, uitbreiden of aanpassen
 
@@ -115,68 +160,24 @@ De toets is altijd: **veroorzaakt de activiteit onredelijke hinder** voor andere
 
 - Gebruik als werkplaats, opslagbedrijf of bedrijfsruimte is niet toegestaan zonder toestemming van de ALV.
 
-## [living] Woonafspraken in de flat
+## [lift] De lift
 
-Praktische afspraken van het prikbord in de hal — zo houden we het gebouw samen netjes en prettig.
+Gezien onze ervaringen voelen wij als bestuur ons genoodzaakt de volgende regels op te stellen *(ingelijste poster in de lift)*. Zo houden we de lift netjes — dank voor uw medewerking!
 
-### [clean-common] 🧹 Gemeenschappelijke ruimten schoon houden
+### [lift-clean] 🧹 Houd de lift schoon
 
-- Houd gangen, hallen, liften en galerijen schoon. **Laat geen afval staan.**
-- Post, folders en kranten neemt u mee naar huis of gooit u in de papierbak.
-- **Geen winkelwagentjes** in het gebouw.
-- Zorg ervoor dat uw eigen huisvuil **geen zwerfvuil** wordt.
+- Let op **lekkende vuilniszakken** en laat geen vuil achter in de lift.
+- Gebeurt er onverhoopt een ongelukje? Ruim dit **zelf meteen** op.
 
-### [bulky-waste] 🗑️ Grofvuil buiten zetten
+### [lift-conduct] 🚭 Niet roken, niet hangen
 
-- Zet grofvuil **uitsluitend buiten op de ophaaldag vanaf 07:45 uur** (zie de afvalkalender van de gemeente).
-
-### [doors-close] 🚪 Deuren en hekken laten sluiten
-
-- Laat hekken en deuren van de algemene ruimtes **goed in het slot vallen**.
-
-### [noise-neighbours] 🎵 Geluid: houd rekening met uw buren
-
-- Zet muziek **niet te hard**, zeker niet na **22:00 uur**.
-- Geeft u een feestje? Houd dan rekening met de omwonenden.
-- Luidruchtige klussen doet u **zoveel mogelijk overdag** en u informeert uw buren.
-
-> Zie ook de stiltetijden (00:00–07:00) onder *Verboden → Geluidshinder*.
-
-### [pets] 🐶 Huisdieren aangelijnd
-
-- Houd huisdieren **aangelijnd** in en rond de flat.
-- Laat uw hond alleen uit op de hondenuitlaatplekken; ruim eventuele "ongelukjes" meteen op.
-
-### [balcony] 🪴 Niets aan de buitenzijde van het balkon
-
-> **Hang niets (wasgoed, bloembakken) aan de buitenzijde van het balkon.**
-> Vallende spullen kunnen dodelijke projectielen zijn!
-
-### [lift] 🛗 Liftregels
-
-Zo houden we de lift netjes *(ingelijste poster in de lift — Het Bestuur)*:
-
-- Let op lekkende vuilniszakken en laat geen vuil achter in de lift.
 - **Verboden te roken** in de lift.
-- De leuning is geen stoel — niet op de leuning hangen.
-- Ook tijdens verbouwingen de lift schoon achterlaten; dek de vloer zo nodig af met bijvoorbeeld karton.
-- Gebeurt er onverhoopt een ongelukje? Ruim dit zelf meteen op.
+- De leuning is geen stoel — niet op de leuning hangen of zitten.
 
-### [door-system] 🔌 Automatisch deursysteem: deur tijdelijk openzetten
+### [lift-renovation] 📦 Verhuizen of verbouwen
 
-Bij verhuizing of ander transport *(instructie bestuur, 22 februari 2018)*. Voor uw eigen veiligheid en die van anderen: volg deze stappen precies.
-
-**Deur openzetten:**
-
-1. Trek de **witte stekker** uit het stopcontact en leg deze **boven op het kastje** — anders raakt hij bekneld tussen deur en muur en kan de sensor beschadigen.
-2. Bedien **géén** schakelaars op het kastje.
-3. Houd de deur open door er voorzichtig iets voor te zetten, **zonder de deur te beschadigen**.
-
-**Systeem weer in gebruik stellen:**
-
-1. Sluit de deur.
-2. Steek de witte stekker terug in het stopcontact.
-3. **Wacht ± 15 seconden** tot u een klikje hoort uit het kastje — het systeem werkt dan weer.
+- Laat de lift ook **tijdens verbouwingen schoon** achter.
+- Dek de vloer zo nodig af met bijvoorbeeld **karton**.
 
 ## [responsibility] Wat is VvE-verantwoordelijkheid?
 
@@ -245,6 +246,9 @@ U bent tegenover de andere bewoners **aansprakelijk** voor schade aan het gebouw
 | Stroom- of gasstoring in de wijk | Liander | **0800-9009** of [liander.nl/storing](https://www.liander.nl/storing) |
 
 > ⚡ **Levensgevaarlijk:** werk nooit zelf aan de elektrische installatie of de netaansluiting in de meterkast.
+
+**Algemene vragen of iets bespreken?**
+💬 Gebruik de **Matterhorn WhatsApp-groep** — daar overleggen bewoners en bestuur over alledaagse zaken. Nog geen lid? Vraag een bestuurslid om u toe te voegen.
 
 **Voor overige meldingen, klachten of vragen:**
 VvE Metea — Matthy van Rooijen

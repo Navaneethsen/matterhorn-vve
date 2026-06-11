@@ -22,6 +22,7 @@ Gekozen door de ALV van 2026.
 - **Liftstoringen (Kone):** 0900-22 555 66
 - **Stroom-/gasstoring in de wijk (Liander):** 0800-9009 of [liander.nl/storing](https://www.liander.nl/storing)
 - Kleine gebreken (bijv. kapotte lamp): briefje in de **Ideeënbus** in de hal
+- **Algemene vragen?** 💬 Gebruik de **Matterhorn WhatsApp-groep** om met bewoners en bestuur te overleggen. Nog geen lid? Vraag een bestuurslid om u toe te voegen.
 
 ## [address] Adres
 
@@ -40,3 +41,11 @@ Bel VvE Metea: **030-600 39 30** (24 uur bereikbaar) — bijvoorbeeld bij watero
 ### [note] Let op
 
 Blijkt de oorzaak privé (bijv. verstopping door vet of een lekkende kitrand), dan worden de kosten aan u doorbelast. Raadpleeg eerst de handleiding "Eigen onderhoud" van VvE Metea.
+
+## [keys] Sleutels kwijt?
+
+Bent u een sleutel kwijt (woning, berging of centrale toegang), of heeft u een extra sleutel nodig?
+
+- Het bijmaken of vervangen van sleutels en sloten regelt en **betaalt u zelf** als eigenaar/bewoner.
+- De VvE is **niet verantwoordelijk** voor de kosten van verloren sleutels of vervangende sloten.
+- 💡 Sleutel van de **centrale toegang** kwijt? Meld dit ook even bij het bestuur, in verband met de veiligheid van het gebouw.

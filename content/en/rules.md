@@ -6,7 +6,7 @@
 > **Manager:** VvE Metea — Matthy van Rooijen
 > **Contact:** [vvemetea.nl](https://www.vvemetea.nl)
 
-> *These rules are based on the Deed of Division (1973) and Model Regulations 1972, the legally binding foundation of our VvE. All residents — owners and tenants alike — are required to comply.*
+> *These rules are based on the Deed of Division (1973) and Model Regulations 1972, the legally binding foundation of our VvE, supplemented with the practical living agreements from the notice board in the hall. All residents — owners and tenants alike — are required to comply.*
 
 ## [obligations] Obligations
 
@@ -27,6 +27,21 @@ As owner/resident you are responsible for maintaining your private area. This in
 - Your letterbox
 
 > ⚠️ **Please note (Matterhorn-specific):** In our building, radiators and radiator valves are **common property** — repairs to them are the responsibility of the VvE, not the individual resident. Report problems to VvE Metea.
+
+### [clean-common] 🧹 Keep the common areas clean
+
+- Keep corridors, halls, lifts and galleries clean. **Do not leave rubbish behind.**
+- Take mail, flyers and newspapers home or dispose of them in the paper bin.
+- **No shopping trolleys** in the building.
+- Make sure your own household waste **does not become litter**.
+
+### [bulky-waste] 🗑️ Put bulky waste outside correctly
+
+- Put bulky waste outside **only on the collection day, from 07:45** (see the municipal waste calendar).
+
+### [doors-close] 🚪 Let doors and gates lock shut
+
+- Make sure gates and doors of the common areas **close and lock properly**.
 
 ### [escape-routes] 🧯 Keep escape routes clear
 
@@ -52,18 +67,38 @@ If work on the common parts requires access to your apartment, you are **require
 
 > *(Model Regulations 1972, Art. 10 paragraph 3 and Art. 11 paragraph 2)*
 
+### [door-system] 🔌 Automated door system: keeping the door open temporarily
+
+When moving house or transporting goods *(board instruction, 22 February 2018)*. For your own safety and that of others: follow these steps exactly.
+
+**Keeping the door open:**
+
+1. Pull the **white plug** out of the electrical outlet and put it **on top of the box** — otherwise it gets crushed between the door and the wall and may damage the sensor.
+2. Do **not** use the switches on the box.
+3. Keep the door open by carefully placing something in front of it, **without damaging the door**.
+
+**Restarting the system:**
+
+1. Close the door.
+2. Place the white plug back into the electrical outlet.
+3. **Wait ± 15 seconds** until you hear a click from the box — the system is then operating again.
+
 ### [tenant-declaration] ✍️ Tenants: sign the compliance declaration
 
 Owners who rent out their apartment are required to ensure that the tenant signs a **written declaration** stating that they will comply with the deed regulations and the house rules. A copy is kept by the administrator.
 
 ## [prohibited] Prohibited
 
-### [noise] 🔇 Noise — Quiet hours
+### [noise] 🔇 Noise — Quiet hours and being considerate of neighbours
 
-> **Music and disturbing noises are prohibited between 00:00 and 07:00.**
-> *(Model Regulations 1972, Art. 13)*
+> **Music and disturbing noises are prohibited between 22:00 and 07:00.**
+> *(Model Regulations 1972, Art. 13 — amended)*
 
 - This applies to music, parties, renovation work, and all other disturbing noises.
+- Do not play music **too loudly**, especially not after **22:00**.
+- Having a party? Be considerate of the people living around you.
+- Do noisy jobs **during the day** as much as possible and inform your neighbours beforehand.
+- 👣 **Think of the people living below you:** footsteps and stamping carry strongly through the floor. Walk gently, wear soft shoes or slippers indoors, and put felt pads under chair and table legs — a small gesture that makes a big difference.
 - Outside quiet hours, **no unreasonable nuisance** to fellow residents is allowed (24/7).
 - In case of persistent nuisance: report it in writing to VvE Metea.
 
@@ -86,6 +121,16 @@ Owners who rent out their apartment are required to ensure that the tenant signs
 
 > **The walls and ceilings of the entrance hall and stairwell may not be used for hanging paintings or other objects, or for applying decorations.**
 > *(Model Regulations 1972, Art. 5 paragraph 2)*
+
+### [balcony] 🪴 Nothing on the outside of the balcony
+
+> **Do not hang anything (laundry, flower boxes) on the outside of the balcony.**
+> Falling objects can be lethal projectiles!
+
+### [pets] 🐶 Pets off the leash
+
+- Keep pets **on a leash** in and around the building.
+- Walk your dog only at the designated dog-walking spots; clean up any "accidents" immediately.
 
 ### [alterations] 🏗️ Renovations, extensions, alterations
 
@@ -115,68 +160,24 @@ The test is always: **does the activity cause unreasonable nuisance** for other 
 
 - Use as a workshop, storage business or commercial space is not allowed without ALV permission.
 
-## [living] Living agreements in the building
+## [lift] The lift
 
-Practical agreements from the notice board in the hall — together we keep the building tidy and pleasant.
+In view of past experiences, we as the board feel compelled to set out the following rules *(framed poster in the lift)*. This is how we keep the lift tidy — thank you for your cooperation!
 
-### [clean-common] 🧹 Keep the common areas clean
+### [lift-clean] 🧹 Keep the lift clean
 
-- Keep corridors, halls, lifts and galleries clean. **Do not leave rubbish behind.**
-- Take mail, flyers and newspapers home or dispose of them in the paper bin.
-- **No shopping trolleys** in the building.
-- Make sure your own household waste **does not become litter**.
+- Watch out for **leaking rubbish bags** and do not leave any dirt in the lift.
+- In the unlikely event of an accident, please **clean it up yourself right away**.
 
-### [bulky-waste] 🗑️ Bulky waste
+### [lift-conduct] 🚭 No smoking, no leaning
 
-- Put bulky waste outside **only on the collection day, from 07:45** (see the municipal waste calendar).
-
-### [doors-close] 🚪 Let doors and gates lock shut
-
-- Make sure gates and doors of the common areas **close and lock properly**.
-
-### [noise-neighbours] 🎵 Noise: be considerate of your neighbours
-
-- Do not play music **too loudly**, especially not after **22:00**.
-- Having a party? Be considerate of the people living around you.
-- Do noisy jobs **during the day** as much as possible and inform your neighbours.
-
-> See also the quiet hours (00:00–07:00) under *Prohibited → Noise*.
-
-### [pets] 🐶 Keep pets on a leash
-
-- Keep pets **on a leash** in and around the building.
-- Walk your dog only at the designated dog-walking spots; clean up any "accidents" immediately.
-
-### [balcony] 🪴 Nothing on the outside of the balcony
-
-> **Do not hang anything (laundry, flower boxes) on the outside of the balcony.**
-> Falling objects can be lethal projectiles!
-
-### [lift] 🛗 Lift rules
-
-This is how we keep the lift tidy *(framed poster in the lift — The Board)*:
-
-- Watch out for leaking rubbish bags and do not leave any dirt in the lift.
 - **No smoking** in the lift.
 - The railing is not a chair — do not lean or sit on it.
-- Leave the lift clean during renovations too; if needed, cover the floor with e.g. cardboard.
-- In the unlikely event of an accident, please clean it up yourself right away.
 
-### [door-system] 🔌 Automated door system: keeping the door open temporarily
+### [lift-renovation] 📦 Moving or renovating
 
-When moving house or transporting goods *(board instruction, 22 February 2018)*. For your own safety and that of others: follow these steps exactly.
-
-**Keeping the door open:**
-
-1. Pull the **white plug** out of the electrical outlet and put it **on top of the box** — otherwise it gets crushed between the door and the wall and may damage the sensor.
-2. Do **not** use the switches on the box.
-3. Keep the door open by carefully placing something in front of it, **without damaging the door**.
-
-**Restarting the system:**
-
-1. Close the door.
-2. Place the white plug back into the electrical outlet.
-3. **Wait ± 15 seconds** until you hear a click from the box — the system is then operating again.
+- Leave the lift **clean during renovations** too.
+- If needed, cover the floor with e.g. **cardboard**.
 
 ## [responsibility] What is VvE responsibility?
 
@@ -245,6 +246,9 @@ You are **liable** towards the other residents for damage to the building or the
 | Power or gas outage in the neighbourhood | Liander | **0800-9009** or [liander.nl/storing](https://www.liander.nl/storing) |
 
 > ⚡ **Danger to life:** never work on the electrical installation or the grid connection in the meter cupboard yourself.
+
+**General questions or something to discuss?**
+💬 Use the **Matterhorn WhatsApp group** — residents and the board discuss everyday matters there. Not a member yet? Ask a board member to add you.
 
 **For other reports, complaints or questions:**
 VvE Metea — Matthy van Rooijen

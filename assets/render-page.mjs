@@ -11,9 +11,14 @@
 const SECTION_TONES = {
   obligations: 'do',
   prohibited: 'dont',
-  living: 'home',
+  lift: 'home',
   responsibility: 'info',
   contact: 'contact'
+};
+
+/* Section-specific icon overrides (default is the tone icon). */
+const SECTION_ICONS = {
+  lift: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M12 3v18"/><path d="m7.5 10 1.5-2 1.5 2"/><path d="m13.5 14 1.5 2 1.5-2"/></svg>'
 };
 
 const TONE_ICONS = {
@@ -68,7 +73,7 @@ export function renderNoticePage(model, options = {}) {
       parts.push(
         `<a href="#${safeHtmlId('section', section.id)}" data-section-card="${safeSectionId}" class="jump-card" data-tone="${tone}" style="--stagger:${index}">`
       );
-      parts.push(`<span class="jump-card-icon" aria-hidden="true">${TONE_ICONS[tone]}</span>`);
+      parts.push(`<span class="jump-card-icon" aria-hidden="true">${SECTION_ICONS[section.id] ?? TONE_ICONS[tone]}</span>`);
       parts.push(`<span class="jump-card-text"${langAttr}>`);
       parts.push(`<span class="jump-card-title">${escapeHtml(title)}</span>`);
       parts.push(`<span class="jump-card-count">${count} ${count === 1 ? copy.ruleSingular : copy.rulePlural}</span>`);
@@ -92,7 +97,7 @@ export function renderNoticePage(model, options = {}) {
       `<section class="section-card" data-tone="${tone}" data-section-id="${safeSectionId}" id="${safeHtmlId('section', section.id)}" style="--stagger:${sectionIndex}">`
     );
     parts.push(`<header class="section-head">`);
-    parts.push(`<span class="section-icon" aria-hidden="true">${TONE_ICONS[tone]}</span>`);
+    parts.push(`<span class="section-icon" aria-hidden="true">${SECTION_ICONS[section.id] ?? TONE_ICONS[tone]}</span>`);
     parts.push(`<div class="section-head-text"${langAttr}>`);
     parts.push(`<h2>${escapeHtml(title)}</h2>`);
     parts.push(

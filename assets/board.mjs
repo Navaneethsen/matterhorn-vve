@@ -110,6 +110,7 @@ function render() {
   parts.push(`</div>`);
 
   // ---- How to report maintenance ------------------------------------------------
+  const HANDLED_SECTIONS = new Set(['board', 'manager', 'address', 'report']);
   const report = findSection(page, 'report');
   if (report) {
     parts.push(`<section class="home-panel" id="melden" aria-labelledby="report-title">`);
@@ -125,6 +126,30 @@ function render() {
       parts.push(`</article>`);
     });
     parts.push(`</div>`);
+    parts.push(`</section>`);
+  }
+
+  // ---- Any extra sections from the markdown (e.g. lost keys) ---------------------
+  for (const section of page.sections) {
+    if (HANDLED_SECTIONS.has(section.id)) {
+      continue;
+    }
+
+    parts.push(`<section class="home-panel" id="${escapeHtml(section.id)}" aria-labelledby="${escapeHtml(section.id)}-title">`);
+    parts.push(`<h2 id="${escapeHtml(section.id)}-title" class="panel-title">${escapeHtml(section.title)}</h2>`);
+    if (section.body) {
+      parts.push(`<div class="card-prose">${renderMarkdown(section.body)}</div>`);
+    }
+    if (section.subsections.length > 0) {
+      parts.push(`<div class="report-steps">`);
+      section.subsections.forEach((sub, index) => {
+        parts.push(`<article class="report-step" style="--stagger:${index}">`);
+        parts.push(`<h3>${escapeHtml(sub.title)}</h3>`);
+        parts.push(`<div class="card-prose">${renderMarkdown(sub.body)}</div>`);
+        parts.push(`</article>`);
+      });
+      parts.push(`</div>`);
+    }
     parts.push(`</section>`);
   }
 

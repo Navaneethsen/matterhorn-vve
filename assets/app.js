@@ -1,3 +1,4 @@
+// @author nsen <navaneethsen@gmail.com>
 import { parseNoticeMarkdown, mergeTranslations } from './content-model.mjs';
 import { renderNoticePage } from './render-page.mjs';
 import { initShell, onLanguageChange, getLanguage } from './shell.mjs';
