@@ -26,6 +26,7 @@ U bent als eigenaar/bewoner zelf verantwoordelijk voor het onderhoud van uw priv
 - Alle sanitair en leidingen: schoonhouden en ontstoppen
 - Hang- en sluitwerk aan deuren en ramen
 - Uw brievenbus
+- **CV-ketel en binneninstallatie** — de CV-ketel is privébezit; onderhoud en reparatie zijn uw eigen verantwoordelijkheid. Laat de ketel jaarlijks onderhouden door een gecertificeerd bedrijf (Gasketelwet, verplicht vanaf 1 april 2023). De **rookgasafvoer** (CLV-kanaal) is wél gemeenschappelijk eigendom van de VvE. Houd een CO-melder binnen 2 meter van de ketel.
 
 > ⚠️ **Let op (Matterhorn-specifiek):** Radiatoren en radiatorkranen zijn bij ons gebouw **gemeenschappelijk eigendom** — reparaties hieraan zijn de verantwoordelijkheid van de VvE, niet de individuele bewoner. Meld problemen bij VvE Metea.
 
@@ -123,10 +124,13 @@ Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de hu
 > **De wanden en plafonds van de hal en het trappenhuis mogen niet worden gebruikt voor het ophangen van schilderijen of andere voorwerpen, en het aanbrengen van decoraties.**
 > *(Modelreglement 1972, Art. 5 lid 2)*
 
-### [balcony] 🪴 Niets aan de buitenzijde van het balkon
+### [balcony] 🪴 Balkon — regels
 
 > **Hang niets (wasgoed, bloembakken) aan de buitenzijde van het balkon.**
 > Vallende spullen kunnen dodelijke projectielen zijn!
+
+- **Zonwering/schermen:** alleen toegestaan in **oranje tinten**. Andere kleuren zijn niet toegestaan — dit om het uniforme uiterlijk van het gebouw te bewaren.
+- **Balkonleuning schoonhouden:** houd de leuning regelmatig schoon.
 
 ### [pets] 🐶 Huisdieren los laten lopen
 
