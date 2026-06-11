@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Zet PDF's in content/newsletters/ en voeg per nieuwsbrief één regel toe: "- JJJJ-MM-DD | Titel | newsletters/bestandsnaam.pdf". -->
 
 # Nieuwsbrieven

@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Editor note: keep the bracketed ids in ##/### headings unchanged; edit only the visible heading text and body content. An emoji at the start of a ### title becomes the icon next to the rule. -->
 
 # House Rules
@@ -252,7 +253,7 @@ You are **liable** towards the other residents for damage to the building or the
 
 **For other reports, complaints or questions:**
 VvE Metea — Matthy van Rooijen
-📧 Use the Twinq portal or email via VvE Metea
+📧 Use the [Twinq portal](https://vvemetea.twinq.nl/) or email via VvE Metea
 
 **Board of VvE Matterhorn 2-48 (elected at the 2026 ALV):**
 - Catalin Hobeanu — Matterhorn 12

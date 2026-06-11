@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- One announcement per ## heading. Format: ## YYYY-MM-DD | Label | Title — add 📌 to pin it to the top. Text below is plain markdown. -->
 
 # Announcements

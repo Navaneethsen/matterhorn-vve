@@ -912,6 +912,20 @@ ol {
   margin: 0;
 }
 
+/* External links (e.g. the Twinq resident portal) */
+.quick-link-card.is-external {
+  border-left-color: var(--tone-contact);
+}
+
+.quick-link-card.is-external .jump-card-arrow {
+  color: var(--tone-contact);
+}
+
+.btn .external-mark {
+  font-size: 0.85em;
+  opacity: 0.8;
+}
+
 /* ---- Gallery ----------------------------------------------------------------------------------------- */
 
 .gallery-grid {

@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- One activity per ## heading. Format: ## YYYY-MM-DD | Location | Title — use text (e.g. "Date to follow") instead of a date if it is not yet known. -->
 
 # Calendar

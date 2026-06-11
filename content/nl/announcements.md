@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Eén mededeling per ## kop. Formaat: ## JJJJ-MM-DD | Label | Titel — voeg 📌 toe om bovenaan vast te zetten. Tekst eronder is gewone markdown. -->
 
 # Mededelingen

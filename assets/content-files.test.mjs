@@ -93,9 +93,11 @@ function assertExpectedStructure(language, model) {
 
 test('rules content files keep the invisible editor note at the top', () => {
   for (const [language, markdown] of Object.entries(contentSources)) {
+    const firstHeadingIndex = markdown.indexOf('\n# ');
+    const header = firstHeadingIndex === -1 ? markdown : markdown.slice(0, firstHeadingIndex);
     assert.ok(
-      markdown.startsWith(`${editorNote}\n\n# `),
-      `${language} rules file should start with the invisible editor note`
+      header.includes(editorNote),
+      `${language} rules file should keep the invisible editor note above the title`
     );
   }
 });

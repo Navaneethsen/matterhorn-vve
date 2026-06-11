@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 # Content beheren / Managing content
 
 Alles op de site komt uit deze map. **Bewerk een bestand, commit & push via git — klaar.**

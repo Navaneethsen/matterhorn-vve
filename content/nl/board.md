@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Laat de [ids] in de ##/### koppen staan. Bestuursleden: één regel per persoon, "Naam | Adres | Rol". -->
 
 # Bestuur & contact
@@ -17,7 +18,7 @@ Gekozen door de ALV van 2026.
 **VvE Metea — Matthy van Rooijen**
 
 - Website: [vvemetea.nl](https://www.vvemetea.nl)
-- Meldingen via: Twinq-portaal (zie portaalbriefkast)
+- Meldingen via: [Twinq-portaal](https://vvemetea.twinq.nl/)
 - **Storingen (24 uur):** 030-600 39 30 of [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)
 - **Liftstoringen (Kone):** 0900-22 555 66
 - **Stroom-/gasstoring in de wijk (Liander):** 0800-9009 of [liander.nl/storing](https://www.liander.nl/storing)
@@ -32,7 +33,7 @@ Matterhorn 2–48 (even), 1186 EC Amstelveen
 
 ### [non-urgent] Niet-dringend
 
-Meld onderhoud, storingen of schade via het Twinq-portaal of per e-mail bij VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Kleine gebreken zoals een kapotte lamp kunnen ook via een briefje in de Ideeënbus in de hal. Omschrijf de locatie en voeg waar mogelijk een foto toe.
+Meld onderhoud, storingen of schade via het [Twinq-portaal](https://vvemetea.twinq.nl/) of per e-mail bij VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Kleine gebreken zoals een kapotte lamp kunnen ook via een briefje in de Ideeënbus in de hal. Omschrijf de locatie en voeg waar mogelijk een foto toe.
 
 ### [urgent] Dringend / calamiteit
 

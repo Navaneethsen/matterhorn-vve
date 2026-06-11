@@ -8,10 +8,13 @@ import {
 } from './shell.mjs';
 import { parsePage, parseDatedItems, parsePipeList, findSection } from './content-md.mjs';
 
+const PORTAL_URL = 'https://vvemetea.twinq.nl/';
+
 const COPY = {
   nl: {
     heroBadge: 'Vereniging van Eigenaars',
     ctaRules: 'Bekijk de huisregels',
+    ctaPortal: 'Bewonersportaal',
     ctaReport: 'Iets melden?',
     photoCaption: 'Matterhorn 2–48 · Amstelveen',
     announcementsTitle: 'Mededelingen',
@@ -27,12 +30,14 @@ const COPY = {
       { href: './events.html', title: 'Agenda', sub: 'Vergaderingen en activiteiten' },
       { href: './gallery.html', title: 'Galerij', sub: 'Foto’s van het gebouw' },
       { href: './board.html', title: 'Bestuur & contact', sub: 'Bestuur, beheerder en meldingen' },
-      { href: './newsletters.html', title: 'Nieuwsbrieven', sub: 'Berichten van het bestuur' }
+      { href: './newsletters.html', title: 'Nieuwsbrieven', sub: 'Berichten van het bestuur' },
+      { href: PORTAL_URL, title: 'Bewonersportaal', sub: 'Twinq: bijdrage, meldingen en documenten', external: true }
     ]
   },
   en: {
     heroBadge: 'Owners’ association',
     ctaRules: 'Read the house rules',
+    ctaPortal: 'Resident portal',
     ctaReport: 'Report an issue',
     photoCaption: 'Matterhorn 2–48 · Amstelveen',
     announcementsTitle: 'Announcements',
@@ -48,7 +53,8 @@ const COPY = {
       { href: './events.html', title: 'Calendar', sub: 'Meetings and activities' },
       { href: './gallery.html', title: 'Gallery', sub: 'Photos of the building' },
       { href: './board.html', title: 'Board & contact', sub: 'Board, manager and reports' },
-      { href: './newsletters.html', title: 'Newsletters', sub: 'Updates from the board' }
+      { href: './newsletters.html', title: 'Newsletters', sub: 'Updates from the board' },
+      { href: PORTAL_URL, title: 'Resident portal', sub: 'Twinq: contribution, reports and documents', external: true }
     ]
   }
 };
@@ -113,6 +119,9 @@ function render() {
   }
   parts.push(`<div class="home-hero-actions">`);
   parts.push(`<a class="btn btn-light" href="./rules.html">${copy.ctaRules}</a>`);
+  parts.push(
+    `<a class="btn btn-ghost" href="${PORTAL_URL}" target="_blank" rel="noopener">${copy.ctaPortal} <span class="external-mark" aria-hidden="true">↗</span></a>`
+  );
   parts.push(`<a class="btn btn-ghost" href="./board.html#melden">${copy.ctaReport}</a>`);
   parts.push(`</div>`);
   parts.push(`</div>`);
@@ -198,10 +207,11 @@ function render() {
   parts.push(`<h2 id="quick-title" class="panel-title">${copy.quickTitle}</h2>`);
   parts.push(`<div class="quick-links-grid">`);
   copy.quickLinks.forEach((link, index) => {
-    parts.push(`<a class="quick-link-card" href="${link.href}" style="--stagger:${index}">`);
+    const externalAttrs = link.external ? ' target="_blank" rel="noopener"' : '';
+    parts.push(`<a class="quick-link-card${link.external ? ' is-external' : ''}" href="${link.href}"${externalAttrs} style="--stagger:${index}">`);
     parts.push(`<span class="quick-link-title">${escapeHtml(link.title)}</span>`);
     parts.push(`<span class="quick-link-sub">${escapeHtml(link.sub)}</span>`);
-    parts.push(`<span class="jump-card-arrow" aria-hidden="true">→</span>`);
+    parts.push(`<span class="jump-card-arrow" aria-hidden="true">${link.external ? '↗' : '→'}</span>`);
     parts.push(`</a>`);
   });
   parts.push(`</div>`);

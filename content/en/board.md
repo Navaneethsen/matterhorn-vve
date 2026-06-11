@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Keep the [ids] in the ##/### headings. Board members: one line per person, "Name | Address | Role". -->
 
 # Board & contact
@@ -17,7 +18,7 @@ Elected by the 2026 general meeting.
 **VvE Metea — Matthy van Rooijen**
 
 - Website: [vvemetea.nl](https://www.vvemetea.nl)
-- Reports via: Twinq portal (see mailbox notice)
+- Reports via: [Twinq portal](https://vvemetea.twinq.nl/)
 - **Malfunctions (24 hours):** 030-600 39 30 or [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)
 - **Lift malfunctions (Kone):** 0900-22 555 66
 - **Power/gas outage in the neighbourhood (Liander):** 0800-9009 or [liander.nl/storing](https://www.liander.nl/storing)
@@ -32,7 +33,7 @@ Matterhorn 2–48 (even numbers), 1186 EC Amstelveen
 
 ### [non-urgent] Non-urgent
 
-Report maintenance, malfunctions or damage via the Twinq portal or by e-mail to VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Small defects such as a broken light bulb can also go via a note in the Idea Box in the hall. Describe the location and add a photo where possible.
+Report maintenance, malfunctions or damage via the [Twinq portal](https://vvemetea.twinq.nl/) or by e-mail to VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Small defects such as a broken light bulb can also go via a note in the Idea Box in the hall. Describe the location and add a photo where possible.
 
 ### [urgent] Urgent / emergency
 

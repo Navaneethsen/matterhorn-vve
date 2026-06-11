@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Put photos in content/gallery/ and add one line per photo: "- filename | caption". -->
 
 # Gallery

@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Zet foto's in content/gallery/ en voeg per foto één regel toe: "- bestandsnaam | onderschrift". -->
 
 # Galerij

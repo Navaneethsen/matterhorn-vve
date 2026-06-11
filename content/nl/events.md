@@ -1,3 +1,4 @@
+<!-- @author nsen <navaneethsen@gmail.com> -->
 <!-- Eén activiteit per ## kop. Formaat: ## JJJJ-MM-DD | Locatie | Titel — gebruik tekst (bijv. "Datum volgt") in plaats van een datum als die nog niet bekend is. -->
 
 # Agenda
