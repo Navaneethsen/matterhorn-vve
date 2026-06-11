@@ -14,7 +14,7 @@
 ### [monthly-fee] 💶 Maandelijkse bijdrage betalen
 
 - Elke eigenaar is verplicht de maandelijkse VvE-bijdrage **tijdig te betalen**.
-- De huidige bijdrage bedraagt **€338,70 per maand** per appartement (begroting 2025, nog steeds van kracht).
+- De huidige maandelijkse bijdrage per appartement is vastgesteld in de begroting en staat vermeld in het VvE-portaal.
 - Bij te late betaling is rente verschuldigd. *(Akte van Splitsing 1973, Art. 18 lid 6)*
 
 ### [private-maintenance] 🛠️ Uw appartement goed onderhouden

@@ -11,6 +11,6 @@ The general meeting of 13 April 2026 decided that **Techem will install an indiv
 
 The VvE Matterhorn 2–48 website has been renewed. From now on you will find the house rules, the calendar, newsletters, a photo gallery and all contact details of the board and the property manager here.
 
-## 2026-01-01 | Financial | Monthly contribution: €338.70
+## 2026-01-01 | Financial | Monthly contribution
 
-The monthly VvE contribution is **€338.70 per apartment** (2025 budget, still in force). Please pay on time — interest is due on late payments.
+The monthly VvE contribution per apartment is set in the budget and can be found in the VvE portal. Please pay on time — interest is due on late payments.

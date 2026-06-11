@@ -11,6 +11,6 @@ De ALV van 13 april 2026 heeft besloten dat **Techem in elk appartement een indi
 
 De website van VvE Matterhorn 2–48 is vernieuwd. U vindt hier voortaan de huisregels, de agenda, nieuwsbrieven, een fotogalerij en alle contactgegevens van het bestuur en de beheerder.
 
-## 2026-01-01 | Financieel | Maandelijkse bijdrage: €338,70
+## 2026-01-01 | Financieel | Maandelijkse bijdrage
 
-De maandelijkse VvE-bijdrage bedraagt **€338,70 per appartement** (begroting 2025, nog steeds van kracht). Betaal tijdig — bij te late betaling is rente verschuldigd.
+De maandelijkse VvE-bijdrage per appartement is vastgesteld in de begroting en staat vermeld in het VvE-portaal. Betaal tijdig — bij te late betaling is rente verschuldigd.
