@@ -1,4 +1,4 @@
-<!-- Editor note: keep the bracketed ids in ##/### headings unchanged; edit only the visible heading text and body content. -->
+<!-- Editor note: keep the bracketed ids in ##/### headings unchanged; edit only the visible heading text and body content. An emoji at the start of a ### title becomes the icon next to the rule. -->
 
 # Huisregels
 
@@ -10,13 +10,13 @@
 
 ## [obligations] Verplichtingen
 
-### [monthly-fee] Maandelijkse bijdrage betalen
+### [monthly-fee] 💶 Maandelijkse bijdrage betalen
 
 - Elke eigenaar is verplicht de maandelijkse VvE-bijdrage **tijdig te betalen**.
 - De huidige bijdrage bedraagt **€338,70 per maand** per appartement (begroting 2025, nog steeds van kracht).
 - Bij te late betaling is rente verschuldigd. *(Akte van Splitsing 1973, Art. 18 lid 6)*
 
-### [private-maintenance] Uw appartement goed onderhouden
+### [private-maintenance] 🛠️ Uw appartement goed onderhouden
 
 U bent als eigenaar/bewoner zelf verantwoordelijk voor het onderhoud van uw privégedeelte. Hieronder valt:
 
@@ -28,7 +28,7 @@ U bent als eigenaar/bewoner zelf verantwoordelijk voor het onderhoud van uw priv
 
 > ⚠️ **Let op (Matterhorn-specifiek):** Radiatoren en radiatorkranen zijn bij ons gebouw **gemeenschappelijk eigendom** — reparaties hieraan zijn de verantwoordelijkheid van de VvE, niet de individuele bewoner. Meld problemen bij VvE Metea.
 
-### [escape-routes] Vluchtwegen vrijhouden
+### [escape-routes] 🧯 Vluchtwegen vrijhouden
 
 De galerijen en het trappenhuis zijn vluchtwegen. Verplicht per wet (Besluit bouwwerken leefomgeving):
 
@@ -36,14 +36,14 @@ De galerijen en het trappenhuis zijn vluchtwegen. Verplicht per wet (Besluit bou
 - Minimum doorgang: **0,85 m**
 - Branddeuren en drangsluiters mogen **nooit worden geblokkeerd of vastgezet**
 
-### [report-damage] Schade of gevaar onmiddellijk melden
+### [report-damage] 📣 Schade of gevaar onmiddellijk melden
 
 Heeft u ernstige schade in uw appartement, of ziet u een gevaarlijke situatie in de gemeenschappelijke ruimten? Meld dit **direct** bij VvE Metea:
 
-- **VvE Metea 24/7 calamiteitentelefoon:** zie portaalbriefkast / Twinq-portaal
+- **VvE Metea storingen (24 uur):** 030-600 39 30 of [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)
 - Bij **onmiddellijk dreigend gevaar** voor de gemeenschappelijke delen mag iedere bewoner zelf maatregelen nemen om het gevaar af te wenden — waarschuw daarna direct de beheerder. *(Modelreglement 1972, Art. 6 lid 4)*
 
-### [grant-access] Toegang verlenen voor werkzaamheden
+### [grant-access] 🔑 Toegang verlenen voor werkzaamheden
 
 Is voor werkzaamheden aan de gemeenschappelijke delen toegang tot uw appartement nodig? Dan bent u **verplicht** die toegang te verlenen. Eventuele schade die hieruit voortvloeit wordt door de VvE vergoed.
 
@@ -52,29 +52,29 @@ Is voor werkzaamheden aan de gemeenschappelijke delen toegang tot uw appartement
 
 > *(Modelreglement 1972, Art. 10 lid 3 en Art. 11 lid 2)*
 
-### [tenant-declaration] Huurders: verklaring ondertekenen
+### [tenant-declaration] ✍️ Huurders: verklaring ondertekenen
 
 Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de huurder een **schriftelijke verklaring** ondertekent dat hij/zij het splitsingsreglement en het huishoudelijk reglement zal naleven. Een exemplaar wordt bewaard door de administrateur.
 
 ## [prohibited] Verboden
 
-### [noise] Geluidshinder — Stiltetijden
+### [noise] 🔇 Geluidshinder — Stiltetijden
 
-> **Muziek en storende geluiden zijn verboden tussen 00:00 en 07:00 uur.**
-> *(Modelreglement 1972, Art. 13)*
+> **Muziek en storende geluiden zijn verboden tussen 22:00 en 07:00 uur.**
+> *(Modelreglement 1972, Art. 13) (gewijzigde)*
 
 - Dit geldt voor muziek, feesten, renovatiewerk, en alle overige storende geluiden.
 - Buiten de stiltetijden geldt: **geen onredelijke hinder** aan medebewoners (24/7).
 - Bij aanhoudende overlast: meld schriftelijk bij VvE Metea.
 
-### [common-area-conduct] Luidruchtigheid en rondhangen in gemeenschappelijke ruimten
+### [common-area-conduct] 🤫 Luidruchtigheid en rondhangen in gemeenschappelijke ruimten
 
 > **Luidruchtigheid en onnodig verblijf in de gemeenschappelijke ruimten (hal, gangen, galerijen, trappenhuis) zijn niet toegestaan.**
 > *(Modelreglement 1972, Art. 5 lid 1)*
 
 - De gemeenschappelijke ruimten zijn bedoeld voor doorgang, niet als verblijfs- of speelruimte.
 
-### [vehicles-common-areas] Fietsen en voertuigen in gemeenschappelijke ruimten
+### [vehicles-common-areas] 🚲 Fietsen en voertuigen in gemeenschappelijke ruimten
 
 > **Fietsen, bromfietsen en andere voertuigen mogen niet worden geplaatst in de gemeenschappelijke ruimten (gangen, galerijen, trappenhuis, hal) op plaatsen die hiervoor niet zijn bestemd.**
 > *(Modelreglement 1972, Art. 5 lid 1)*
@@ -82,12 +82,12 @@ Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de hu
 - Staal uw fiets uitsluitend op de daarvoor aangewezen plekken buiten.
 - ⚠️ **Brandveiligheid:** E-bikes en scooters met lithiumaccu's vormen een brandrisico. Sla ze niet op in bergingen of gemeenschappelijke ruimten en laad ze niet op in deze ruimten. Neem bij twijfel contact op met VvE Metea.
 
-### [decorations-common-areas] Decoraties in gemeenschappelijke ruimten
+### [decorations-common-areas] 🖼️ Decoraties in gemeenschappelijke ruimten
 
 > **De wanden en plafonds van de hal en het trappenhuis mogen niet worden gebruikt voor het ophangen van schilderijen of andere voorwerpen, en het aanbrengen van decoraties.**
 > *(Modelreglement 1972, Art. 5 lid 2)*
 
-### [alterations] Verbouwen, uitbreiden of aanpassen
+### [alterations] 🏗️ Verbouwen, uitbreiden of aanpassen
 
 > **Elke op-, aan- of onderbouw zonder toestemming van de vergadering van eigenaars (ALV) is verboden.**
 > *(Modelreglement 1972, Art. 6 lid 1)*
@@ -95,7 +95,7 @@ Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de hu
 - Structurele wijzigingen die de stevigheid of het architectonisch uiterlijk van het gebouw beïnvloeden zijn evenmin toegestaan zonder ALV-toestemming.
 - Hieronder valt ook: het aanbrengen van naamborden, reclameborden, zonneschermen, vlaggen, bloembakken en uitstekende voorwerpen.
 
-### [commercial-activities] Commerciële activiteiten
+### [commercial-activities] 💼 Commerciële activiteiten
 
 Het appartement is bestemd voor **particulier woongebruik**.
 
@@ -108,16 +108,79 @@ De toets is altijd: **veroorzaakt de activiteit onredelijke hinder** voor andere
 
 > *Bron: Akte van Splitsing 1973, Art. 9 lid 2 (amendement). Zie ook: Board Playbook FAQ.*
 
-### [garage-use] Garages: alleen autostalling
+### [garage-use] 🚗 Garages: alleen autostalling
 
 > **De garages zijn uitsluitend bestemd voor particulier gebruik als autostalling.**
 > *(Akte van Splitsing 1973, Art. 9 lid 2)*
 
 - Gebruik als werkplaats, opslagbedrijf of bedrijfsruimte is niet toegestaan zonder toestemming van de ALV.
 
+## [living] Woonafspraken in de flat
+
+Praktische afspraken van het prikbord in de hal — zo houden we het gebouw samen netjes en prettig.
+
+### [clean-common] 🧹 Gemeenschappelijke ruimten schoon houden
+
+- Houd gangen, hallen, liften en galerijen schoon. **Laat geen afval staan.**
+- Post, folders en kranten neemt u mee naar huis of gooit u in de papierbak.
+- **Geen winkelwagentjes** in het gebouw.
+- Zorg ervoor dat uw eigen huisvuil **geen zwerfvuil** wordt.
+
+### [bulky-waste] 🗑️ Grofvuil buiten zetten
+
+- Zet grofvuil **uitsluitend buiten op de ophaaldag vanaf 07:45 uur** (zie de afvalkalender van de gemeente).
+
+### [doors-close] 🚪 Deuren en hekken laten sluiten
+
+- Laat hekken en deuren van de algemene ruimtes **goed in het slot vallen**.
+
+### [noise-neighbours] 🎵 Geluid: houd rekening met uw buren
+
+- Zet muziek **niet te hard**, zeker niet na **22:00 uur**.
+- Geeft u een feestje? Houd dan rekening met de omwonenden.
+- Luidruchtige klussen doet u **zoveel mogelijk overdag** en u informeert uw buren.
+
+> Zie ook de stiltetijden (00:00–07:00) onder *Verboden → Geluidshinder*.
+
+### [pets] 🐶 Huisdieren aangelijnd
+
+- Houd huisdieren **aangelijnd** in en rond de flat.
+- Laat uw hond alleen uit op de hondenuitlaatplekken; ruim eventuele "ongelukjes" meteen op.
+
+### [balcony] 🪴 Niets aan de buitenzijde van het balkon
+
+> **Hang niets (wasgoed, bloembakken) aan de buitenzijde van het balkon.**
+> Vallende spullen kunnen dodelijke projectielen zijn!
+
+### [lift] 🛗 Liftregels
+
+Zo houden we de lift netjes *(ingelijste poster in de lift — Het Bestuur)*:
+
+- Let op lekkende vuilniszakken en laat geen vuil achter in de lift.
+- **Verboden te roken** in de lift.
+- De leuning is geen stoel — niet op de leuning hangen.
+- Ook tijdens verbouwingen de lift schoon achterlaten; dek de vloer zo nodig af met bijvoorbeeld karton.
+- Gebeurt er onverhoopt een ongelukje? Ruim dit zelf meteen op.
+
+### [door-system] 🔌 Automatisch deursysteem: deur tijdelijk openzetten
+
+Bij verhuizing of ander transport *(instructie bestuur, 22 februari 2018)*. Voor uw eigen veiligheid en die van anderen: volg deze stappen precies.
+
+**Deur openzetten:**
+
+1. Trek de **witte stekker** uit het stopcontact en leg deze **boven op het kastje** — anders raakt hij bekneld tussen deur en muur en kan de sensor beschadigen.
+2. Bedien **géén** schakelaars op het kastje.
+3. Houd de deur open door er voorzichtig iets voor te zetten, **zonder de deur te beschadigen**.
+
+**Systeem weer in gebruik stellen:**
+
+1. Sluit de deur.
+2. Steek de witte stekker terug in het stopcontact.
+3. **Wacht ± 15 seconden** tot u een klikje hoort uit het kastje — het systeem werkt dan weer.
+
 ## [responsibility] Wat is VvE-verantwoordelijkheid?
 
-### [shared-vs-private] VvE verantwoordelijkheid vs uw eigen verantwoordelijkheid
+### [shared-vs-private] 🏢 VvE verantwoordelijkheid vs uw eigen verantwoordelijkheid
 
 De VvE (via VvE Metea) is verantwoordelijk voor onderhoud en reparatie van alle **gemeenschappelijke delen**. Dit omvat onder andere:
 
@@ -134,7 +197,34 @@ De VvE (via VvE Metea) is verantwoordelijk voor onderhoud en reparatie van alle 
 > ⚠️ **Glasschade** in of aan een privégedeelte is **voor eigen rekening** van de eigenaar/bewoner.
 > *(Modelreglement 1972, Art. 10 lid 6)*
 
-### [liability] Aansprakelijk voor schade en hinder
+### [cleaning-schedule] 🧽 Schoonmaakprogramma gemeenschappelijke ruimten
+
+De VvE laat de gemeenschappelijke ruimten schoonmaken door **Variant b.v.** (schoonmaakonderneming & glazenwasserij, sinds 1962), volgens afspraak met het bestuur:
+
+**Wekelijks:**
+
+- Gehele trappenhuis en hal vegen en moppen
+- Lift schoonmaken
+- Ramen van de entreepartij lappen
+- Bladeren en vuil verwijderen bij de entree buiten
+
+**Maandelijks:**
+
+- Lichtknoppen afnemen
+- Boxgangen vegen en moppen, spinrag verwijderen
+- Separatieglas boven de garagedeur en plafond stofvrij houden
+- Houtwerk afnemen
+- Gehele trappenhuis plus verlichting spinragvrij maken
+- Glasbewassing galerijdeuren en trappenhuis, binnen en buiten
+
+**Periodiek op aanvraag:**
+
+- Boxen (bergingen) schoonmaken
+- Galerijvloeren onder hoge druk spuiten
+
+> Is er iets gemist of extra schoonmaak nodig? Meld het bij het bestuur of VvE Metea.
+
+### [liability] ⚖️ Aansprakelijk voor schade en hinder
 
 U bent tegenover de andere bewoners **aansprakelijk** voor schade aan het gebouw of de gemeenschappelijke zaken en voor onredelijke hinder, veroorzaakt door uzelf **of uw huisgenoten**.
 
@@ -143,9 +233,20 @@ U bent tegenover de andere bewoners **aansprakelijk** voor schade aan het gebouw
 
 ## [contact] Contact & handhaving
 
-### [contact-details] Contactgegevens en handhaving
+### [contact-details] 📞 Contactgegevens en handhaving
 
-**Voor meldingen, klachten of vragen:**
+**Storingen in de gemeenschappelijke ruimten:**
+
+| Wat | Wie | Contact |
+|---|---|---|
+| Grote technische storingen (wateroverlast, elektriciteitsstoring) — 24 uur | VvE Metea | **030-600 39 30** of [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl) |
+| Liftstoringen | Kone | **0900-22 555 66** |
+| Kleine gebreken (bijv. kapotte lamp) | Bestuur | Briefje in de **Ideeënbus** in de hal, of mail [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl) |
+| Stroom- of gasstoring in de wijk | Liander | **0800-9009** of [liander.nl/storing](https://www.liander.nl/storing) |
+
+> ⚡ **Levensgevaarlijk:** werk nooit zelf aan de elektrische installatie of de netaansluiting in de meterkast.
+
+**Voor overige meldingen, klachten of vragen:**
 VvE Metea — Matthy van Rooijen
 📧 Gebruik het Twinq-portaal of e-mail via VvE Metea
 

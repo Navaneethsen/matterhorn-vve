@@ -11,6 +11,7 @@
 const SECTION_TONES = {
   obligations: 'do',
   prohibited: 'dont',
+  living: 'home',
   responsibility: 'info',
   contact: 'contact'
 };
@@ -19,6 +20,7 @@ const TONE_ICONS = {
   do: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>',
   dont: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m5.7 5.7 12.6 12.6"/></svg>',
   info: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4 6v6c0 4.4 3.4 8.1 8 9 4.6-.9 8-4.6 8-9V6l-8-3Z"/></svg>',
+  home: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 11 9-8 9 8"/><path d="M5 9.5V20h14V9.5"/><path d="M10 20v-6h4v6"/></svg>',
   contact: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/></svg>'
 };
 
@@ -110,7 +112,9 @@ export function renderNoticePage(model, options = {}) {
         const cardKey = `${safeSectionId}:${safeCardId}`;
         const bodyId = `card-${safeSectionId}-${safeCardId}`;
         const isOpen = expandedCards.has(cardKey);
-        const cardTitle = pickText(card.title, card.translation?.title, showEnglish);
+        const { icon: cardIcon, text: cardTitle } = splitLeadingEmoji(
+          pickText(card.title, card.translation?.title, showEnglish)
+        );
         const cardBody = pickText(card.bodyHtml, card.translation?.bodyHtml, showEnglish);
 
         parts.push(
@@ -120,7 +124,11 @@ export function renderNoticePage(model, options = {}) {
         parts.push(
           `<button type="button" class="rule-card-toggle" data-action="toggle-card" aria-expanded="${isOpen}" aria-controls="${bodyId}">`
         );
-        parts.push(`<span class="rule-marker" aria-hidden="true"></span>`);
+        if (cardIcon) {
+          parts.push(`<span class="rule-icon" aria-hidden="true">${escapeHtml(cardIcon)}</span>`);
+        } else {
+          parts.push(`<span class="rule-marker" aria-hidden="true"></span>`);
+        }
         parts.push(`<span class="rule-title">${escapeHtml(cardTitle)}</span>`);
         parts.push(`<span class="rule-chevron" aria-hidden="true">${CHEVRON_ICON}</span>`);
         parts.push(`</button>`);
@@ -177,6 +185,23 @@ export function renderNoticePage(model, options = {}) {
 
 export function sectionTone(sectionId) {
   return SECTION_TONES[sectionId] ?? 'info';
+}
+
+/**
+ * Split a leading emoji (the rule's pictogram, like on the hallway poster)
+ * from a card title. Titles without a leading emoji are returned unchanged.
+ */
+export function splitLeadingEmoji(title) {
+  if (typeof title !== 'string') {
+    return { icon: '', text: '' };
+  }
+
+  const match = /^(\p{Extended_Pictographic}(?:️|‍\p{Extended_Pictographic})*)\s+(.+)$/u.exec(title);
+  if (match) {
+    return { icon: match[1], text: match[2] };
+  }
+
+  return { icon: '', text: title };
 }
 
 function pickText(primary, translated, showEnglish) {

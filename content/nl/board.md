@@ -18,7 +18,10 @@ Gekozen door de ALV van 2026.
 
 - Website: [vvemetea.nl](https://www.vvemetea.nl)
 - Meldingen via: Twinq-portaal (zie portaalbriefkast)
-- **Calamiteiten:** 24/7 calamiteitentelefoon — zie portaalbriefkast / Twinq-portaal
+- **Storingen (24 uur):** 030-600 39 30 of [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)
+- **Liftstoringen (Kone):** 0900-22 555 66
+- **Stroom-/gasstoring in de wijk (Liander):** 0800-9009 of [liander.nl/storing](https://www.liander.nl/storing)
+- Kleine gebreken (bijv. kapotte lamp): briefje in de **Ideeënbus** in de hal
 
 ## [address] Adres
 
@@ -28,11 +31,11 @@ Matterhorn 2–48 (even), 1186 EC Amstelveen
 
 ### [non-urgent] Niet-dringend
 
-Meld onderhoud, storingen of schade via het Twinq-portaal of per e-mail bij VvE Metea. Omschrijf de locatie en voeg waar mogelijk een foto toe.
+Meld onderhoud, storingen of schade via het Twinq-portaal of per e-mail bij VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Kleine gebreken zoals een kapotte lamp kunnen ook via een briefje in de Ideeënbus in de hal. Omschrijf de locatie en voeg waar mogelijk een foto toe.
 
 ### [urgent] Dringend / calamiteit
 
-Bel de 24/7 calamiteitentelefoon van VvE Metea (zie portaalbriefkast of het Twinq-portaal). Bij onmiddellijk dreigend gevaar mag u zelf maatregelen nemen — waarschuw daarna direct de beheerder.
+Bel VvE Metea: **030-600 39 30** (24 uur bereikbaar) — bijvoorbeeld bij wateroverlast of een elektriciteitsstoring. Bij liftstoringen belt u Kone: **0900-22 555 66**. Bij onmiddellijk dreigend gevaar mag u zelf maatregelen nemen — waarschuw daarna direct de beheerder.
 
 ### [note] Let op
 

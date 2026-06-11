@@ -32,6 +32,10 @@
   --tone-contact-strong: #854d0e;
   --tone-contact-soft: #fefae8;
   --tone-contact-border: rgba(161, 98, 7, 0.26);
+  --tone-home: #4d7c0f;
+  --tone-home-strong: #3f6212;
+  --tone-home-soft: #f7fee7;
+  --tone-home-border: rgba(77, 124, 15, 0.28);
 
   --shadow-soft: 0 20px 45px rgba(18, 56, 34, 0.12);
   --shadow-card: 0 14px 30px rgba(18, 56, 34, 0.09);
@@ -1371,6 +1375,13 @@ ol {
   --tone-border: var(--tone-contact-border);
 }
 
+[data-tone="home"] {
+  --tone-color: var(--tone-home);
+  --tone-strong: var(--tone-home-strong);
+  --tone-soft: var(--tone-home-soft);
+  --tone-border: var(--tone-home-border);
+}
+
 /* ---- Section cards ------------------------------------------------------------ */
 
 .section-card {
@@ -1487,6 +1498,25 @@ ol {
   transition: transform 220ms var(--ease-spring);
 }
 
+/* Pictogram chip next to a rule, like the icons on the hallway poster. */
+.rule-icon {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.35rem;
+  height: 2.35rem;
+  border-radius: 999px;
+  font-size: 1.15rem;
+  background: var(--tone-soft, var(--surface-soft));
+  box-shadow: inset 0 0 0 2px var(--tone-border, var(--border));
+  transition: transform 220ms var(--ease-spring);
+}
+
+.rule-card-toggle:hover .rule-icon {
+  transform: scale(1.08) rotate(-4deg);
+}
+
 .rule-title {
   flex: 1;
   min-width: 0;
@@ -1530,7 +1560,7 @@ ol {
 }
 
 .rule-card .card-body {
-  padding: 0 1.15rem 1.15rem 2.65rem;
+  padding: 0 1.15rem 1.15rem 4.35rem;
   color: var(--text-muted);
   opacity: 0;
   transform: translateY(-6px);

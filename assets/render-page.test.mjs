@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { renderNoticePage, sectionTone } from './render-page.mjs';
+import { renderNoticePage, sectionTone, splitLeadingEmoji } from './render-page.mjs';
 
 const model = {
   title: 'Huisregels',
@@ -173,7 +173,33 @@ test('renderNoticePage applies tone colors per section: do for obligations, dont
 test('sectionTone maps known section ids and falls back to info', () => {
   assert.equal(sectionTone('obligations'), 'do');
   assert.equal(sectionTone('prohibited'), 'dont');
+  assert.equal(sectionTone('living'), 'home');
   assert.equal(sectionTone('responsibility'), 'info');
   assert.equal(sectionTone('contact'), 'contact');
   assert.equal(sectionTone('something-new'), 'info');
+});
+
+test('splitLeadingEmoji separates a leading pictogram from the title', () => {
+  assert.deepEqual(splitLeadingEmoji('🧹 Schoon houden'), { icon: '🧹', text: 'Schoon houden' });
+  assert.deepEqual(splitLeadingEmoji('🛠️ Onderhoud'), { icon: '🛠️', text: 'Onderhoud' });
+  assert.deepEqual(splitLeadingEmoji('Geen emoji'), { icon: '', text: 'Geen emoji' });
+});
+
+test('renderNoticePage renders a leading emoji as a pictogram chip next to the rule', () => {
+  const html = renderNoticePage(
+    {
+      ...model,
+      sections: [
+        {
+          ...model.sections[0],
+          cards: [{ id: 'pets', title: '🐶 Huisdieren aangelijnd', bodyHtml: '<p>Aangelijnd.</p>', translation: null }]
+        }
+      ]
+    },
+    { showEnglish: false }
+  );
+
+  assert.match(html, /<span class="rule-icon" aria-hidden="true">🐶<\/span>/);
+  assert.match(html, /<span class="rule-title">Huisdieren aangelijnd<\/span>/);
+  assert.doesNotMatch(html, /rule-marker/);
 });

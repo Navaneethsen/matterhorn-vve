@@ -4,9 +4,9 @@ import { readFileSync } from 'node:fs';
 import { parseNoticeMarkdown } from './content-model.mjs';
 
 const editorNote =
-  '<!-- Editor note: keep the bracketed ids in ##/### headings unchanged; edit only the visible heading text and body content. -->';
+  '<!-- Editor note: keep the bracketed ids in ##/### headings unchanged; edit only the visible heading text and body content. An emoji at the start of a ### title becomes the icon next to the rule. -->';
 
-const expectedSectionIds = ['obligations', 'prohibited', 'responsibility', 'contact'];
+const expectedSectionIds = ['obligations', 'prohibited', 'living', 'responsibility', 'contact'];
 const expectedCardIds = {
   obligations: [
     'monthly-fee',
@@ -25,7 +25,17 @@ const expectedCardIds = {
     'commercial-activities',
     'garage-use'
   ],
-  responsibility: ['shared-vs-private', 'liability'],
+  living: [
+    'clean-common',
+    'bulky-waste',
+    'doors-close',
+    'noise-neighbours',
+    'pets',
+    'balcony',
+    'lift',
+    'door-system'
+  ],
+  responsibility: ['shared-vs-private', 'cleaning-schedule', 'liability'],
   contact: ['contact-details']
 };
 

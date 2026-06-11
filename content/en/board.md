@@ -18,7 +18,10 @@ Elected by the 2026 general meeting.
 
 - Website: [vvemetea.nl](https://www.vvemetea.nl)
 - Reports via: Twinq portal (see mailbox notice)
-- **Emergencies:** 24/7 emergency line — see mailbox notice / Twinq portal
+- **Malfunctions (24 hours):** 030-600 39 30 or [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)
+- **Lift malfunctions (Kone):** 0900-22 555 66
+- **Power/gas outage in the neighbourhood (Liander):** 0800-9009 or [liander.nl/storing](https://www.liander.nl/storing)
+- Small defects (e.g. broken light bulb): put a note in the **Idea Box** in the hall
 
 ## [address] Address
 
@@ -28,11 +31,11 @@ Matterhorn 2–48 (even numbers), 1186 EC Amstelveen
 
 ### [non-urgent] Non-urgent
 
-Report maintenance, malfunctions or damage via the Twinq portal or by e-mail to VvE Metea. Describe the location and add a photo where possible.
+Report maintenance, malfunctions or damage via the Twinq portal or by e-mail to VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Small defects such as a broken light bulb can also go via a note in the Idea Box in the hall. Describe the location and add a photo where possible.
 
 ### [urgent] Urgent / emergency
 
-Call the VvE Metea 24/7 emergency line (see the mailbox notice or the Twinq portal). In case of immediate danger you may take measures yourself — then notify the manager right away.
+Call VvE Metea: **030-600 39 30** (available 24 hours) — for example in case of flooding or an electrical failure. For lift malfunctions call Kone: **0900-22 555 66**. In case of immediate danger you may take measures yourself — then notify the manager right away.
 
 ### [note] Please note
 
