@@ -3,8 +3,6 @@
 
 Static website for the residents of Matterhorn 2–48, Amstelveen.
 
-[![Content Sync Check](https://github.com/Navaneethsen/matterhorn-vve/actions/workflows/content-sync-check.yml/badge.svg)](https://github.com/Navaneethsen/matterhorn-vve/actions/workflows/content-sync-check.yml)
-
 ## Structure
 
 ```
