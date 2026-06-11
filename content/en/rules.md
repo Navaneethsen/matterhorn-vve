@@ -14,7 +14,7 @@
 ### [monthly-fee] 💶 Pay monthly service charge
 
 - Every owner is required to pay the monthly VvE service charge **on time**.
-- The current contribution is **€338.70 per month** per apartment (2025 budget, still in force).
+- The current VvE fee per apartment is determined in accordance with the currently approved budget.
 - Late payment incurs interest. *(Deed of Division 1973, Art. 18 paragraph 6)*
 
 ### [private-maintenance] 🛠️ Maintain your own apartment
