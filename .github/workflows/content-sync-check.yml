@@ -1,0 +1,73 @@
+# @author nsen <navaneethsen@gmail.com>
+name: Content Sync Check
+
+on:
+  push:
+    paths:
+      - 'content/nl/**'
+      - 'content/en/**'
+  pull_request:
+    paths:
+      - 'content/nl/**'
+      - 'content/en/**'
+
+jobs:
+  check-sync:
+    name: NL ↔ EN parity
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check every NL file has an EN counterpart
+        run: |
+          missing=0
+          for nl_file in content/nl/*.md; do
+            filename=$(basename "$nl_file")
+            en_file="content/en/$filename"
+            if [ ! -f "$en_file" ]; then
+              echo "::error file=$nl_file::Missing EN counterpart: $en_file"
+              missing=1
+            fi
+          done
+          exit $missing
+
+      - name: Check every EN file has an NL counterpart
+        run: |
+          missing=0
+          for en_file in content/en/*.md; do
+            filename=$(basename "$en_file")
+            nl_file="content/nl/$filename"
+            if [ ! -f "$nl_file" ]; then
+              echo "::error file=$en_file::Missing NL counterpart: $nl_file"
+              missing=1
+            fi
+          done
+          exit $missing
+
+      - name: Check section headings match between NL and EN
+        run: |
+          drift=0
+          for nl_file in content/nl/*.md; do
+            filename=$(basename "$nl_file")
+            en_file="content/en/$filename"
+            [ ! -f "$en_file" ] && continue
+
+            # Extract ## section markers (structure, not text)
+            nl_sections=$(grep -c '^## ' "$nl_file" || true)
+            en_sections=$(grep -c '^## ' "$en_file" || true)
+
+            if [ "$nl_sections" != "$en_sections" ]; then
+              echo "::warning file=$nl_file::Section count mismatch in $filename — NL has $nl_sections sections, EN has $en_sections"
+              drift=1
+            fi
+          done
+          if [ $drift -eq 1 ]; then
+            echo ""
+            echo "One or more files have a different number of sections between NL and EN."
+            echo "Make sure both versions are updated together."
+            exit 1
+          fi
+
+      - name: Report all good
+        run: echo "All content files are in sync between NL and EN."
