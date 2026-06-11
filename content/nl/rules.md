@@ -9,7 +9,7 @@
 
 > Deze regels zijn gebaseerd op de **Akte van Splitsing (1973)** en het **Modelreglement 1972**, de juridisch bindende grondslag van onze VvE, aangevuld met de praktische woonafspraken van het prikbord in de hal. Alle bewoners — eigenaars én huurders — zijn verplicht deze na te leven.
 
-## [obligations] Verplichtingen
+## [obligations] ✅ Wat wel
 
 ### [monthly-fee] 💶 Maandelijkse bijdrage betalen
 
@@ -88,7 +88,7 @@ Bij verhuizing of ander transport *(instructie bestuur, 22 februari 2018)*. Voor
 
 Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de huurder een **schriftelijke verklaring** ondertekent dat hij/zij het splitsingsreglement en het huishoudelijk reglement zal naleven. Een exemplaar wordt bewaard door de administrateur.
 
-## [prohibited] Verboden
+## [prohibited] ❌ Wat niet
 
 ### [noise] 🔇 Geluidshinder — Stiltetijden en rekening houden met buren
 
