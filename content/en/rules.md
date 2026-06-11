@@ -26,6 +26,7 @@ As owner/resident you are responsible for maintaining your private area. This in
 - All sanitary fittings and pipes: keeping them clean and unclogged
 - Locks and fittings on doors and windows
 - Your letterbox
+- **Central heating boiler and private installation** — the boiler is private property; maintenance and repairs are your own responsibility. Have it serviced annually by a certified company (Gas Boiler Act, mandatory from 1 April 2023). The **flue gas exhaust** (CLV duct) is common property of the VvE. Keep a CO detector within 2 metres of the boiler.
 
 > ⚠️ **Please note (Matterhorn-specific):** In our building, radiators and radiator valves are **common property** — repairs to them are the responsibility of the VvE, not the individual resident. Report problems to VvE Metea.
 
@@ -123,10 +124,13 @@ Owners who rent out their apartment are required to ensure that the tenant signs
 > **The walls and ceilings of the entrance hall and stairwell may not be used for hanging paintings or other objects, or for applying decorations.**
 > *(Model Regulations 1972, Art. 5 paragraph 2)*
 
-### [balcony] 🪴 Nothing on the outside of the balcony
+### [balcony] 🪴 Balcony — rules
 
 > **Do not hang anything (laundry, flower boxes) on the outside of the balcony.**
 > Falling objects can be lethal projectiles!
+
+- **Sunshades/screens:** only permitted in **orange shades**. Other colours are not allowed — this preserves the uniform appearance of the building.
+- **Keep the balcony railing clean:** clean the railing regularly.
 
 ### [pets] 🐶 Pets off the leash
 
