@@ -30,8 +30,7 @@ const COPY = {
       { href: './events.html', title: 'Agenda', sub: 'Vergaderingen en activiteiten' },
       { href: './gallery.html', title: 'Galerij', sub: 'Foto’s van het gebouw' },
       { href: './board.html', title: 'Bestuur & contact', sub: 'Bestuur, beheerder en meldingen' },
-      { href: './newsletters.html', title: 'Nieuwsbrieven', sub: 'Berichten van het bestuur' },
-      { href: PORTAL_URL, title: 'Bewonersportaal', sub: 'Twinq: bijdrage, meldingen en documenten', external: true }
+      { href: './newsletters.html', title: 'Nieuwsbrieven', sub: 'Berichten van het bestuur' }
     ]
   },
   en: {
@@ -53,8 +52,7 @@ const COPY = {
       { href: './events.html', title: 'Calendar', sub: 'Meetings and activities' },
       { href: './gallery.html', title: 'Gallery', sub: 'Photos of the building' },
       { href: './board.html', title: 'Board & contact', sub: 'Board, manager and reports' },
-      { href: './newsletters.html', title: 'Newsletters', sub: 'Updates from the board' },
-      { href: PORTAL_URL, title: 'Resident portal', sub: 'Twinq: contribution, reports and documents', external: true }
+      { href: './newsletters.html', title: 'Newsletters', sub: 'Updates from the board' }
     ]
   }
 };
