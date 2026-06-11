@@ -9,7 +9,7 @@
 
 > *These rules are based on the Deed of Division (1973) and Model Regulations 1972, the legally binding foundation of our VvE, supplemented with the practical living agreements from the notice board in the hall. All residents — owners and tenants alike — are required to comply.*
 
-## [obligations] Obligations
+## [obligations] ✅ Do's
 
 ### [monthly-fee] 💶 Pay monthly service charge
 
@@ -88,7 +88,7 @@ When moving house or transporting goods *(board instruction, 22 February 2018)*.
 
 Owners who rent out their apartment are required to ensure that the tenant signs a **written declaration** stating that they will comply with the deed regulations and the house rules. A copy is kept by the administrator.
 
-## [prohibited] Prohibited
+## [prohibited] ❌ Don'ts
 
 ### [noise] 🔇 Noise — Quiet hours and being considerate of neighbours
 
