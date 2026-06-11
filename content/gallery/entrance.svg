@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Entrance illustration">
+  <defs>
+    <linearGradient id="e-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e0efe5"/>
+      <stop offset="1" stop-color="#f5faf5"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#e-sky)"/>
+  <ellipse cx="400" cy="565" rx="460" ry="65" fill="#8cbf97"/>
+  <rect x="220" y="140" width="360" height="380" rx="10" fill="#f3f0e8" stroke="#cdc7b6" stroke-width="3"/>
+  <rect x="220" y="140" width="360" height="24" rx="10" fill="#3f7d54"/>
+  <rect x="330" y="270" width="140" height="250" rx="6" fill="#2f6644"/>
+  <rect x="344" y="290" width="50" height="200" rx="4" fill="#bfe0d2"/>
+  <rect x="406" y="290" width="50" height="200" rx="4" fill="#bfe0d2"/>
+  <rect x="396" y="380" width="8" height="26" rx="3" fill="#e9f5ec"/>
+  <rect x="250" y="200" width="54" height="40" rx="4" fill="#bfe0d2" stroke="#5e8d6f" stroke-width="2"/>
+  <rect x="496" y="200" width="54" height="40" rx="4" fill="#bfe0d2" stroke="#5e8d6f" stroke-width="2"/>
+  <rect x="300" y="520" width="200" height="14" rx="4" fill="#d7d2c2"/>
+  <g fill="#2f8f5b">
+    <circle cx="170" cy="470" r="46"/><circle cx="630" cy="470" r="46"/>
+  </g>
+  <rect x="164" y="500" width="10" height="44" fill="#5a4632"/>
+  <rect x="624" y="500" width="10" height="44" fill="#5a4632"/>
+  <text x="400" y="66" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#1d4a31">Entree Matterhorn 2–48</text>
+</svg>

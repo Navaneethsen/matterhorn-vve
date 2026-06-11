@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Matterhorn 2-48, Amstelveen">
+  <defs>
+    <linearGradient id="hp-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe8d6"/>
+      <stop offset="1" stop-color="#eef8ef"/>
+    </linearGradient>
+    <linearGradient id="hp-facade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#faf8f2"/>
+      <stop offset="1" stop-color="#e6e1d3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#hp-sky)"/>
+  <circle cx="760" cy="100" r="58" fill="#fdf0c0"/>
+  <path d="M0 480 Q 220 430 450 478 T 900 480 L 900 620 L 0 620 Z" fill="#a3cfae"/>
+  <path d="M0 520 Q 260 480 500 522 T 900 516 L 900 620 L 0 620 Z" fill="#7fb88c"/>
+  <g>
+    <rect x="160" y="150" width="580" height="350" rx="12" fill="url(#hp-facade)" stroke="#cbc5b3" stroke-width="3"/>
+    <rect x="160" y="150" width="580" height="28" rx="12" fill="#3f7d54"/>
+    <g fill="#c4e2d4" stroke="#5e8d6f" stroke-width="2">
+      <rect x="196" y="206" width="70" height="48" rx="5"/><rect x="298" y="206" width="70" height="48" rx="5"/><rect x="400" y="206" width="70" height="48" rx="5"/><rect x="502" y="206" width="70" height="48" rx="5"/><rect x="604" y="206" width="70" height="48" rx="5"/>
+      <rect x="196" y="282" width="70" height="48" rx="5"/><rect x="298" y="282" width="70" height="48" rx="5"/><rect x="400" y="282" width="70" height="48" rx="5"/><rect x="502" y="282" width="70" height="48" rx="5"/><rect x="604" y="282" width="70" height="48" rx="5"/>
+      <rect x="196" y="358" width="70" height="48" rx="5"/><rect x="298" y="358" width="70" height="48" rx="5"/><rect x="502" y="358" width="70" height="48" rx="5"/><rect x="604" y="358" width="70" height="48" rx="5"/>
+    </g>
+    <rect x="404" y="358" width="62" height="142" rx="5" fill="#2f6644"/>
+    <rect x="428" y="424" width="9" height="12" rx="3" fill="#eaf6ee"/>
+  </g>
+  <g fill="#2f8f5b">
+    <circle cx="98" cy="430" r="64"/><circle cx="142" cy="474" r="46"/>
+    <circle cx="804" cy="436" r="66"/><circle cx="758" cy="482" r="44"/>
+  </g>
+  <rect x="92" y="476" width="13" height="64" fill="#5a4632"/>
+  <rect x="798" y="486" width="13" height="60" fill="#5a4632"/>
+  <g fill="#ffffff" opacity="0.85">
+    <ellipse cx="240" cy="92" rx="56" ry="18"/><ellipse cx="292" cy="104" rx="44" ry="14"/>
+    <ellipse cx="560" cy="70" rx="50" ry="16"/>
+  </g>
+</svg>
