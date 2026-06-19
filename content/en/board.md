@@ -22,7 +22,8 @@ Elected by the 2026 general meeting.
 - **Malfunctions (24 hours):** 030-600 39 30 or [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)
 - **Lift malfunctions (Kone):** 0900-22 555 66
 - **Power/gas outage in the neighbourhood (Liander):** 0800-9009 or [liander.nl/storing](https://www.liander.nl/storing)
-- Small defects (e.g. broken light bulb): put a note in the **Idea Box** in the hall
+- Small defects (e.g. broken light bulb): email the board at [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com)
+- **Questions, ideas or suggestions?** 📧 Email [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) — we will respond as soon as possible.
 - **General questions?** 💬 Use the **Matterhorn WhatsApp group** to discuss with residents and the board. Not a member yet? Ask a board member to add you.
 
 ## [address] Address
@@ -33,7 +34,7 @@ Matterhorn 2–48 (even numbers), 1186 EC Amstelveen
 
 ### [non-urgent] Non-urgent
 
-Report maintenance, malfunctions or damage via the [Twinq portal](https://vvemetea.twinq.nl/) or by e-mail to VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Small defects such as a broken light bulb can also go via a note in the Idea Box in the hall. Describe the location and add a photo where possible.
+Report maintenance, malfunctions or damage via the [Twinq portal](https://vvemetea.twinq.nl/) or by e-mail to VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Small defects such as a broken light bulb should be reported to the board at [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com). Describe the location and add a photo where possible.
 
 ### [urgent] Urgent / emergency
 

@@ -22,7 +22,8 @@ Gekozen door de ALV van 2026.
 - **Storingen (24 uur):** 030-600 39 30 of [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)
 - **Liftstoringen (Kone):** 0900-22 555 66
 - **Stroom-/gasstoring in de wijk (Liander):** 0800-9009 of [liander.nl/storing](https://www.liander.nl/storing)
-- Kleine gebreken (bijv. kapotte lamp): briefje in de **Ideeënbus** in de hal
+- Kleine gebreken (bijv. kapotte lamp): mail het bestuur via [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com)
+- **Vragen, ideeën of suggesties?** 📧 Mail [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) — wij reageren zo snel mogelijk.
 - **Algemene vragen?** 💬 Gebruik de **Matterhorn WhatsApp-groep** om met bewoners en bestuur te overleggen. Nog geen lid? Vraag een bestuurslid om u toe te voegen.
 
 ## [address] Adres
@@ -33,7 +34,7 @@ Matterhorn 2–48 (even), 1186 EC Amstelveen
 
 ### [non-urgent] Niet-dringend
 
-Meld onderhoud, storingen of schade via het [Twinq-portaal](https://vvemetea.twinq.nl/) of per e-mail bij VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Kleine gebreken zoals een kapotte lamp kunnen ook via een briefje in de Ideeënbus in de hal. Omschrijf de locatie en voeg waar mogelijk een foto toe.
+Meld onderhoud, storingen of schade via het [Twinq-portaal](https://vvemetea.twinq.nl/) of per e-mail bij VvE Metea ([storingen@vvemetea.nl](mailto:storingen@vvemetea.nl)). Kleine gebreken zoals een kapotte lamp meldt u bij het bestuur via [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com). Omschrijf de locatie en voeg waar mogelijk een foto toe.
 
 ### [urgent] Dringend / calamiteit
 

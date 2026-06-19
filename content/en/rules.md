@@ -158,6 +158,18 @@ The test is always: **does the activity cause unreasonable nuisance** for other 
 
 > *Source: Deed of Division 1973, Art. 9 paragraph 2 (amendment). See also: Board Playbook FAQ.*
 
+### [ceiling] ⚠️ Touching the ceiling — always scan for pipes first
+
+> **Never touch the ceiling without first scanning for pipes.**
+
+In our building, hot-water pipes and radiators belonging to your upstairs neighbours run through your ceiling. If you damage a water pipe during work (drilling, chiselling, renovating):
+
+- You bear **all repair costs** — for your neighbours and in the common areas.
+- **Always scan the ceiling beforehand** with a suitable detector for pipes, cables and ducts.
+- Not sure? Ask VvE Metea or the board for advice before you start.
+
+> ⚠️ This is **your personal liability** — the VvE does not cover damage you caused through careless work on your ceiling.
+
 ### [garage-use] 🚗 Garages: car storage only
 
 > **The garages are designated exclusively for private use as car storage.**
@@ -247,10 +259,13 @@ You are **liable** towards the other residents for damage to the building or the
 |---|---|---|
 | Major technical failures (flooding, electrical failure) — 24 hours | VvE Metea | **030-600 39 30** or [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl) |
 | Lift malfunctions | Kone | **0900-22 555 66** |
-| Small defects (e.g. broken light bulb) | Board | Put a note in the **Idea Box** in the hall, or mail [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl) |
+| Small defects (e.g. broken light bulb) | Board | Email [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) |
 | Power or gas outage in the neighbourhood | Liander | **0800-9009** or [liander.nl/storing](https://www.liander.nl/storing) |
 
 > ⚡ **Danger to life:** never work on the electrical installation or the grid connection in the meter cupboard yourself.
+
+**Questions, complaints, ideas or suggestions for the board?**
+📧 Send an email to [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) — we will respond as soon as possible. Your input is always welcome!
 
 **General questions or something to discuss?**
 💬 Use the **Matterhorn WhatsApp group** — residents and the board discuss everyday matters there. Not a member yet? Ask a board member to add you.

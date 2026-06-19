@@ -158,6 +158,18 @@ De toets is altijd: **veroorzaakt de activiteit onredelijke hinder** voor andere
 
 > *Bron: Akte van Splitsing 1973, Art. 9 lid 2 (amendement). Zie ook: Board Playbook FAQ.*
 
+### [ceiling] ⚠️ Plafond aanraken — scan altijd eerst op leidingen
+
+> **Raak het plafond nooit aan zonder eerst te scannen op leidingen.**
+
+In ons gebouw lopen warmwaterleidingen en radiatoren van uw bovenburen door uw plafond. Als u bij werkzaamheden (boren, uithouwen, verbouwen) een waterleiding beschadigt:
+
+- Draagt u **alle herstelkosten** — zowel bij uw buren als in de gemeenschappelijke ruimten.
+- Scan het plafond **altijd vooraf** met een geschikte detector op leidingen, kabels en buizen.
+- Twijfelt u? Vraag eerst advies bij VvE Metea of het bestuur vóór u begint.
+
+> ⚠️ Dit is **persoonlijke aansprakelijkheid** — de VvE vergoedt geen schade die u zelf heeft veroorzaakt door onzorgvuldig werk aan uw plafond.
+
 ### [garage-use] 🚗 Garages: alleen autostalling
 
 > **De garages zijn uitsluitend bestemd voor particulier gebruik als autostalling.**
@@ -247,10 +259,13 @@ U bent tegenover de andere bewoners **aansprakelijk** voor schade aan het gebouw
 |---|---|---|
 | Grote technische storingen (wateroverlast, elektriciteitsstoring) — 24 uur | VvE Metea | **030-600 39 30** of [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl) |
 | Liftstoringen | Kone | **0900-22 555 66** |
-| Kleine gebreken (bijv. kapotte lamp) | Bestuur | Briefje in de **Ideeënbus** in de hal, of mail [storingen@vvemetea.nl](mailto:storingen@vvemetea.nl) |
+| Kleine gebreken (bijv. kapotte lamp) | Bestuur | Mail [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) |
 | Stroom- of gasstoring in de wijk | Liander | **0800-9009** of [liander.nl/storing](https://www.liander.nl/storing) |
 
 > ⚡ **Levensgevaarlijk:** werk nooit zelf aan de elektrische installatie of de netaansluiting in de meterkast.
+
+**Heeft u vragen, klachten, ideeën of suggesties voor het bestuur?**
+📧 Stuur een e-mail naar [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) — wij reageren zo snel mogelijk. Uw inbreng wordt gewaardeerd!
 
 **Algemene vragen of iets bespreken?**
 💬 Gebruik de **Matterhorn WhatsApp-groep** — daar overleggen bewoners en bestuur over alledaagse zaken. Nog geen lid? Vraag een bestuurslid om u toe te voegen.
