@@ -442,6 +442,13 @@ ol {
   color: rgba(240, 250, 242, 0.7);
 }
 
+.site-footer-updated {
+  width: min(100%, var(--content-width));
+  margin: 0.4rem auto 0;
+  font-size: 0.78rem;
+  color: rgba(240, 250, 242, 0.55);
+}
+
 /* ---- Buttons ----------------------------------------------------------------- */
 
 .btn {

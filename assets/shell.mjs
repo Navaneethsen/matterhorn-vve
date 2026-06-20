@@ -122,6 +122,7 @@ export function initShell({ active } = {}) {
   const footerMount = document.querySelector('[data-site-footer]');
   if (footerMount) {
     footerMount.innerHTML = renderFooter();
+    renderLastUpdated();
   }
 
   syncShellLanguage(lang);
@@ -185,8 +186,54 @@ function renderFooter() {
       .join('<br>')}</p>`,
     `</div>`,
     `</div>`,
-    `<p class="site-footer-note">VvE Matterhorn 2–48 · Amstelveen · <span data-i18n-nl="Bestuur 2026" data-i18n-en="Board 2026">Bestuur 2026</span></p>`
+    `<p class="site-footer-note">VvE Matterhorn 2–48 · Amstelveen · <span data-i18n-nl="Bestuur 2026" data-i18n-en="Board 2026">Bestuur 2026</span></p>`,
+    `<p class="site-footer-updated" data-site-updated hidden></p>`
   ].join('');
+}
+
+/**
+ * Fetch the commit-time stamp written by the pre-commit hook and render a
+ * localized "last updated" line in the footer. Silent no-op if the stamp is
+ * missing or unreadable — the footer just omits the line.
+ */
+async function renderLastUpdated() {
+  const mount = document.querySelector('[data-site-updated]');
+  if (!mount) {
+    return;
+  }
+
+  let iso;
+  try {
+    const response = await fetch('./assets/last-updated.json', { cache: 'no-store' });
+    if (!response.ok) {
+      return;
+    }
+    iso = (await response.json()).updated;
+  } catch {
+    return;
+  }
+
+  const date = new Date(iso);
+  if (!iso || Number.isNaN(date.getTime())) {
+    return;
+  }
+
+  const render = (lang) => {
+    const stamp = new Intl.DateTimeFormat(lang === 'en' ? 'en-GB' : 'nl-NL', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      timeZone: 'Europe/Amsterdam'
+    }).format(date);
+    const label = lang === 'en' ? 'Last updated' : 'Laatst bijgewerkt';
+    mount.textContent = `${label}: ${stamp}`;
+  };
+
+  render(getLanguage());
+  mount.hidden = false;
+  onLanguageChange((lang) => render(lang));
 }
 
 function bindHeader(headerMount) {
