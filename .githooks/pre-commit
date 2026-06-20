@@ -1,0 +1,20 @@
+#!/bin/sh
+# @author nsen <navaneethsen@gmail.com>
+#
+# Stamp the "last updated" timestamp into the site on every commit.
+#
+# Runs before the commit is created, so there is no commit hash yet — we use
+# the current moment, which equals the commit time to the second. The ISO
+# string is UTC; the footer formats it into the visitor's chosen language and
+# the site's local timezone (Europe/Amsterdam).
+
+set -e
+
+repo_root=$(git rev-parse --show-toplevel)
+stamp_file="$repo_root/assets/last-updated.json"
+
+iso=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+printf '{\n  "updated": "%s"\n}\n' "$iso" > "$stamp_file"
+
+git add "$stamp_file"
