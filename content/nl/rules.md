@@ -7,7 +7,7 @@
 > **Beheerder:** VvE Metea — Sharona van Kuik
 > **Contact:** [vvemetea.nl](https://www.vvemetea.nl)
 
-> Deze regels zijn gebaseerd op de **Akte van Splitsing (1973)** en het **Modelreglement 1972**, de juridisch bindende grondslag van onze VvE, aangevuld met de praktische woonafspraken van het prikbord in de hal. Alle bewoners — eigenaars én huurders — zijn verplicht deze na te leven.
+> Deze regels zijn gebaseerd op de **Akte van Splitsing (1973)**, het **Modelreglement 1972** en het **Huishoudelijk Reglement (2014)**, de juridisch bindende grondslag van onze VvE, aangevuld met de praktische woonafspraken van het prikbord in de hal. Alle bewoners — eigenaars én huurders — zijn verplicht deze na te leven.
 
 ## [obligations] ✅ Wat wel
 
@@ -93,16 +93,20 @@ Eigenaren die hun appartement verhuren zijn verplicht ervoor te zorgen dat de hu
 
 ### [noise] 🔇 Geluidshinder — Stiltetijden en rekening houden met buren
 
-> **Muziek en storende geluiden zijn verboden tussen 22:00 en 07:00 uur.**
-> *(Modelreglement 1972, Art. 13 — gewijzigd)*
+> **Nachtrust tussen 00:00 en 07:00 uur:** Muziek, televisie en storende apparaten (zoals wasmachine, wasdroger en vaatwasser) zijn verboden. *(Huishoudelijk Reglement 2014, Art. 3)*
+> **24/7 geen overlast:** Het veroorzaken van onredelijke geluidshinder (zoals luide feesten, schreeuwen of zware bas) is te allen tijde verboden. *(Modelreglement 1972, Art. 9 lid 1 & Art. 12)*
 
-- Dit geldt voor muziek, feesten, renovatiewerk, en alle overige storende geluiden.
-- Zet muziek **niet te hard**, zeker niet na **22:00 uur**.
-- Geeft u een feestje? Houd dan rekening met de omwonenden.
-- Luidruchtige klussen doet u **zoveel mogelijk overdag** en u informeert uw buren vooraf.
-- 👣 **Denk ook aan uw onderburen:** voetstappen en stampen dragen sterk door via de vloer. Loop rustig, draag binnenshuis zachte schoenen of sloffen, en plaats viltjes onder stoel- en tafelpoten — een klein gebaar dat veel woonplezier scheelt.
-- Buiten de stiltetijden geldt: **geen onredelijke hinder** aan medebewoners (24/7).
-- Bij aanhoudende overlast: meld schriftelijk bij VvE Metea.
+- **Vanaf 22:00 uur:** Zet muziek en televisie zachter en respecteer de nachtrust van uw buren.
+- **Tussen 00:00 en 07:00 uur:** Volledige nachtrust. Laat geen wasmachine, wasdroger of vaatwasser draaien — trillingen en centrifugeren dreunen door via de vloeren.
+- **Klussen en verbouwen:** Doe lawaaiige klussen zoveel mogelijk overdag en informeer uw buren vooraf.
+- 👣 **Denk aan uw onderburen:** Voetstappen en stampen dragen sterk door via de vloer. Loop rustig, draag binnenshuis zachte sloffen en plaats viltjes onder stoelpoten.
+
+**Wat te doen bij geluidsoverlast?**
+
+1. **Praat eerst met de buren:** Een vriendelijk gesprek lost het meestal meteen op.
+2. **Houd een logboek bij:** Noteer datum, tijdstip, duur en het soort overlast (belangrijk voor dossieropbouw).
+3. **Ernstige nachtelijke overlast:** Bel op het moment zelf de politie via **0900-8844**. Het politierapport geldt als officieel bewijs.
+4. **Meld het bij bestuur en beheerder:** Mail uw logboek naar [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) en VvE Metea. Bij herhaalde overlast stuurt de beheerder een officiële aangetekende waarschuwing *(Modelreglement 1972, Art. 27)*.
 
 ### [common-area-conduct] 🤫 Luidruchtigheid en rondhangen in gemeenschappelijke ruimten
 
@@ -285,6 +289,7 @@ De beheerder stuurt eerst een **schriftelijke waarschuwing** (aangetekend). Geef
 > **Juridische basis:**
 > Akte van Splitsing 22 januari 1973 (notaris Mekking, Amsterdam) |
 > Modelreglement 1972 (geïncorporeerd via de Akte) |
+> Huishoudelijk Reglement 2014 (HHR 2014) |
 > Besluit bouwwerken leefomgeving (Bbl) — brandveiligheid
 
 *VvE Matterhorn 2–48 · Amstelveen · Bestuur 2026*
