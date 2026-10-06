@@ -174,7 +174,7 @@ function renderFooter() {
     `</div>`,
     `<div class="site-footer-col">`,
     `<p class="site-footer-title" data-i18n-nl="Beheer" data-i18n-en="Management">Beheer</p>`,
-    `<p>VvE Metea — Matthy van Rooijen<br><a href="https://www.vvemetea.nl" target="_blank" rel="noopener">vvemetea.nl</a></p>`,
+    `<p>VvE Metea — Sharona van Kuik<br><a href="https://www.vvemetea.nl" target="_blank" rel="noopener">vvemetea.nl</a></p>`,
     `</div>`,
     `<div class="site-footer-col">`,
     `<p class="site-footer-title" data-i18n-nl="Snel naar" data-i18n-en="Quick links">Snel naar</p>`,
