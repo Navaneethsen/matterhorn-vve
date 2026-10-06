@@ -7,7 +7,7 @@
 > **Manager:** VvE Metea — Sharona van Kuik
 > **Contact:** [vvemetea.nl](https://www.vvemetea.nl)
 
-> *These rules are based on the Deed of Division (1973) and Model Regulations 1972, the legally binding foundation of our VvE, supplemented with the practical living agreements from the notice board in the hall. All residents — owners and tenants alike — are required to comply.*
+> *These rules are based on the Deed of Division (1973), Model Regulations 1972, and the Internal Regulations (Huishoudelijk Reglement 2014), the legally binding foundation of our VvE, supplemented with the practical living agreements from the notice board in the hall. All residents — owners and tenants alike — are required to comply.*
 
 ## [obligations] ✅ Do's
 
@@ -93,16 +93,20 @@ Owners who rent out their apartment are required to ensure that the tenant signs
 
 ### [noise] 🔇 Noise — Quiet hours and being considerate of neighbours
 
-> **Music and disturbing noises are prohibited between 22:00 and 07:00.**
-> *(Model Regulations 1972, Art. 13 — amended)*
+> **Night rest between 00:00 and 07:00:** Music, television, and noisy appliances (such as washing machine, dryer, and dishwasher) are prohibited. *(Internal Regulations 2014, Art. 3)*
+> **24/7 no nuisance:** Causing unreasonable noise nuisance (such as loud parties, shouting, or heavy bass) is prohibited at all times. *(Model Regulations 1972, Art. 9 para. 1 & Art. 12)*
 
-- This applies to music, parties, renovation work, and all other disturbing noises.
-- Do not play music **too loudly**, especially not after **22:00**.
-- Having a party? Be considerate of the people living around you.
-- Do noisy jobs **during the day** as much as possible and inform your neighbours beforehand.
-- 👣 **Think of the people living below you:** footsteps and stamping carry strongly through the floor. Walk gently, wear soft shoes or slippers indoors, and put felt pads under chair and table legs — a small gesture that makes a big difference.
-- Outside quiet hours, **no unreasonable nuisance** to fellow residents is allowed (24/7).
-- In case of persistent nuisance: report it in writing to VvE Metea.
+- **From 22:00:** Turn down music and TV, and respect your neighbours' night rest.
+- **Between 00:00 and 07:00:** Complete night rest. Do not run washing machines, tumble dryers, or dishwashers — vibrations and spin cycles rumble through the floors.
+- **DIY and renovations:** Do noisy DIY jobs during the day as much as possible, and inform your neighbours in advance.
+- 👣 **Think of your downstairs neighbours:** Footsteps and stamping carry strongly through the floor. Walk gently, wear soft slippers indoors, and put felt pads under chair legs.
+
+**What to do in case of noise nuisance?**
+
+1. **Talk to your neighbours first:** A friendly conversation usually resolves things right away.
+2. **Keep a log:** Note the date, time, duration, and type of disturbance (important for building a case file).
+3. **Severe nighttime disturbance:** Call the police at the time of the event via **0900-8844**. The police report serves as official proof.
+4. **Report to the board and manager:** Email your log to [matterhornvve@gmail.com](mailto:matterhornvve@gmail.com) and VvE Metea. Repeated violations lead to a formal registered warning *(Model Regulations 1972, Art. 27)*.
 
 ### [common-area-conduct] 🤫 Noisiness and loitering in common areas
 
@@ -285,6 +289,7 @@ The manager first sends a **written warning** (registered letter). If the person
 > **Legal basis:**
 > Deed of Division 22 January 1973 (notary Mekking, Amsterdam) |
 > Model Regulations 1972 (incorporated via the Deed) |
+> Internal Regulations 2014 (HHR 2014) |
 > Besluit bouwwerken leefomgeving (Bbl) — fire safety
 
 *VvE Matterhorn 2–48 · Amstelveen · Board 2026*
