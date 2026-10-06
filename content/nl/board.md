@@ -15,7 +15,7 @@ Gekozen door de ALV van 2026.
 
 ## [manager] Beheerder
 
-**VvE Metea — Matthy van Rooijen**
+**VvE Metea — Sharona van Kuik**
 
 - Website: [vvemetea.nl](https://www.vvemetea.nl)
 - Meldingen via: [Twinq-portaal](https://vvemetea.twinq.nl/)

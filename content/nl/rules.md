@@ -4,7 +4,7 @@
 # Huisregels
 
 > **Adres:** Matterhorn 2–48 (even), 1186 EC Amstelveen
-> **Beheerder:** VvE Metea — Matthy van Rooijen
+> **Beheerder:** VvE Metea — Sharona van Kuik
 > **Contact:** [vvemetea.nl](https://www.vvemetea.nl)
 
 > Deze regels zijn gebaseerd op de **Akte van Splitsing (1973)** en het **Modelreglement 1972**, de juridisch bindende grondslag van onze VvE, aangevuld met de praktische woonafspraken van het prikbord in de hal. Alle bewoners — eigenaars én huurders — zijn verplicht deze na te leven.
@@ -271,7 +271,7 @@ U bent tegenover de andere bewoners **aansprakelijk** voor schade aan het gebouw
 💬 Gebruik de **Matterhorn WhatsApp-groep** — daar overleggen bewoners en bestuur over alledaagse zaken. Nog geen lid? Vraag een bestuurslid om u toe te voegen.
 
 **Voor overige meldingen, klachten of vragen:**
-VvE Metea — Matthy van Rooijen
+VvE Metea — Sharona van Kuik
 📧 Gebruik het [Twinq-portaal](https://vvemetea.twinq.nl/) of e-mail via VvE Metea
 
 **Bestuur VvE Matterhorn 2-48 (gekozen ALV 2026):**
