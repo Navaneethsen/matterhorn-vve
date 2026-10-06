@@ -15,7 +15,7 @@ Elected by the 2026 general meeting.
 
 ## [manager] Property manager
 
-**VvE Metea — Matthy van Rooijen**
+**VvE Metea — Sharona van Kuik**
 
 - Website: [vvemetea.nl](https://www.vvemetea.nl)
 - Reports via: [Twinq portal](https://vvemetea.twinq.nl/)

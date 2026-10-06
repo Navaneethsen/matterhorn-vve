@@ -4,7 +4,7 @@
 # House Rules
 
 > **Address:** Matterhorn 2–48 (even), 1186 EC Amstelveen
-> **Manager:** VvE Metea — Matthy van Rooijen
+> **Manager:** VvE Metea — Sharona van Kuik
 > **Contact:** [vvemetea.nl](https://www.vvemetea.nl)
 
 > *These rules are based on the Deed of Division (1973) and Model Regulations 1972, the legally binding foundation of our VvE, supplemented with the practical living agreements from the notice board in the hall. All residents — owners and tenants alike — are required to comply.*
@@ -271,7 +271,7 @@ You are **liable** towards the other residents for damage to the building or the
 💬 Use the **Matterhorn WhatsApp group** — residents and the board discuss everyday matters there. Not a member yet? Ask a board member to add you.
 
 **For other reports, complaints or questions:**
-VvE Metea — Matthy van Rooijen
+VvE Metea — Sharona van Kuik
 📧 Use the [Twinq portal](https://vvemetea.twinq.nl/) or email via VvE Metea
 
 **Board of VvE Matterhorn 2-48 (elected at the 2026 ALV):**
